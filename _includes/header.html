@@ -1,0 +1,29 @@
+<header>
+  <div class="jumbotron">
+    <div class="container">
+      <div class="row">
+        {% if page.header %}
+          {% include {{ page.header }} %}
+        {% else %}
+          <div class="col-sm-12 col-lg-12">
+            <h1>{{ page.title }}</h1>
+          </div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+  {% if page.breadcrumb %}
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-lg-12">
+          <ol class="breadcrumb">
+            {% for link in page.breadcrumb %}
+              <li{% if page.url == link.href %} class="active"{% endif %}><a href="{{ link.href }}">{{ link.title }}</a></li>
+            {% endfor %}
+          </ol>
+        </div>
+      </div>
+    </div>
+  {% endif %}
+</header>
+</header>

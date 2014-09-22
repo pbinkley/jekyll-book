@@ -1,0 +1,66 @@
+<nav class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      {% if site.navigation.left.links %}
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          {% for link in site.navigation.left.links %}
+            <span class="icon-bar"></span>
+          {% endfor %}
+        </button>
+      {% endif %}
+      <a class="navbar-brand" href="{{ site.url }}">{{ site.brand }}</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse navbar-ex1-collapse">
+      {% if site.navigation.left %}
+        {% if site.navigation.left.content %}
+          {% include {{ site.navigation.left.content }} %}
+        {% endif %}
+        {% if site.navigation.left.links %}
+          <ul class="nav navbar-nav">
+            {% for link in site.navigation.left.links %}
+              {% if link.dropdown %}
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ link.title }} <b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    {% for submenu in link.dropdown %}
+                      <li><a href="{{ submenu.href }}">{{ submenu.title }}</a></li>
+                    {% endfor %}
+                  </ul>
+                </li>
+              {% else %}
+                <li><a href="{{ link.href }}">{{ link.title }}</a></li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        {% endif %}
+      {% endif %}
+      {% if site.navigation.right %}
+        {% if site.navigation.right.content %}
+          {% include {{ site.navigation.right.content }} %}
+        {% endif %}
+        {% if site.navigation.right.links %}
+          <ul class="nav navbar-nav navbar-right">
+            {% for link in site.navigation.right.links %}
+              {% if link.dropdown %}
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ link.title }} <b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    {% for submenu in link.dropdown %}
+                      <li><a href="{{ submenu.href }}">{{ submenu.title }}</a></li>
+                    {% endfor %}
+                  </ul>
+                </li>
+              {% else %}
+                <li><a href="{{ link.href }}">{{ link.title }}</a></li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        {% endif %}
+      {% endif %}
+    </div>
+  </div>
+</nav>

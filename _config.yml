@@ -1,0 +1,69 @@
+# Site settings
+title: Your awesome title
+brand: MY BLOG
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://www.google.com"
+copyright: © My Company 2013
+
+# Build settings
+markdown: kramdown
+
+navigation:
+  left:
+    links:
+      - title: About
+        href: /about/
+      - title: Link 2
+        href: #
+      - title: Dropdown
+        dropdown:
+          - title: SubMenu 1
+            href: #
+          - title: SubMenu 2
+            href: #
+          - title: SubMenu 3
+            href: #
+  right:
+    content: nav/right.html
+
+footer:
+  sections:
+    - title: Useful Links 1
+      links:
+        - href: https://www.google.com
+          title: Google.com
+        - href: https://www.yahoo.com
+          title: Yahoo.com
+        - href: https://www.msn.com
+          title: MSN
+    - title: Useful Links 2
+      links:
+        - href: https://www.google.com
+          title: Google.com
+        - href: https://www.yahoo.com
+          title: Yahoo.com
+        - href: https://www.msn.com
+          title: MSN
+    - title: Useful Links 3
+      links:
+        - href: https://www.google.com
+          title: Google.com
+        - href: https://www.yahoo.com
+          title: Yahoo.com
+        - href: https://www.msn.com
+          title: MSN
+  company_info:
+    title: Our office
+    name: Company Name
+    website: http://companysite.com
+    phone: 555-123-4567
+    address:
+      street: 123 Main St.
+      city: Dallas
+      state: TX
+      zip: 75001

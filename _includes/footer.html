@@ -1,0 +1,54 @@
+<hr>
+<footer>
+  <div class="container">
+    <div class="row">
+      {% for section in site.footer.sections %}
+        <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+          <h4 class="line3 center standart-h4title"><span>{{ section.title }}</span></h4>
+          {% if section.content %}
+            {% include {{ section.content }} %}
+          {% endif %}
+          {% if section.links %}
+            <ul class="footer-links">
+              {% for link in section.links %}
+                <li><a href="{{ link.href }}">{{ link.title }}</a></li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </div>
+      {% endfor %}
+      {% if site.footer.company_info %}
+        <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+          {% if site.footer.company_info.title %}
+            <h4 class="center">
+              <span>{{ site.footer.company_info.title }}</span>
+            </h4>
+          {% endif %}
+          <address>
+            <strong>
+              {% if site.footer.company_info.website %}<a href="{{ site.footer.company_info.website }}">{% endif %}
+                {{ site.footer.company_info.name }}
+              {% if site.footer.company_info.website %}</a>{% endif %}
+            </strong><br>
+            {% if site.footer.company_info.address %}
+              <i class="fa-icon-map-marker"></i> {{ site.footer.company_info.address.street }}<br>
+              {{ site.footer.company_info.address.city }}, {{ site.footer.company_info.address.state }} {{ site.footer.company_info.address.zip }}<br>
+            {% endif %}
+            {% if site.footer.company_info.phone %}
+              <i class="fa-icon-phone-sign"></i> {{ site.footer.company_info.phone }}
+            {% endif %}
+          </address>
+        </div>
+      {% endif %}
+    </div>
+  </div>
+  {% if site.copyright %}
+  <hr>
+  <div class="container">
+    <p>{{ site.copyright }}</p>
+  </div>
+  {% endif %}
+</footer>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="{{ "/js/app.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/bootstrap/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
