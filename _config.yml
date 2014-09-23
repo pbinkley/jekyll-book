@@ -13,6 +13,10 @@ copyright: © My Company 2013
 # Build settings
 markdown: kramdown
 
+# The video that plays.
+video: "u7deClndzQw"
+
+# The navigation.
 navigation:
   left:
     links:
@@ -31,6 +35,7 @@ navigation:
   right:
     content: nav/right.html
 
+# The footer section.
 footer:
   sections:
     - title: Useful Links 1

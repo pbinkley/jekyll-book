@@ -1,0 +1,20 @@
+<div class="modal fade" id="{{ include.id }}-modal" tabindex="-1" role="dialog" aria-labelledby="{{ include.id }}ModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+        <h4 class="modal-title" id="{{ include.id }}ModalLabel">{{ include.title }}</h4>
+      </div>
+      {% if include.body %}
+        <div class="modal-body">
+          {% include {{ include.body }} %}
+        </div>
+      {% endif %}
+      {% if include.footer %}
+        <div class="modal-footer">
+          {% include {{ include.footer }} %}
+        </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
