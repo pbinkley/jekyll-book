@@ -4,7 +4,9 @@
     <div class="row">
       {% for section in site.footer.sections %}
         <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
-          <h4 class="line3 center standart-h4title"><span>{{ section.title }}</span></h4>
+          {% if section.title %}
+            <h4 class="line3 center standart-h4title"><span>{{ section.title }}</span></h4>
+          {% endif %}
           {% if section.content %}
             {% include {{ section.content }} %}
           {% endif %}
