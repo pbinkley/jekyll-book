@@ -1,1 +1,4 @@
 /** Your custom theme CSS goes here. **/
+#sectionnav {
+	margin: 15px 0;
+}

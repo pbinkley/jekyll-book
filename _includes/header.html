@@ -1,3 +1,16 @@
+{% for p in site.pages %}
+  {% if p.group == "sections" %}
+    {% if getnext == true %}
+      {% assign next = p %}
+      {% break %}
+    {% elsif page.id == p.id %}
+      {% assign getnext = true %}
+    {% else %}
+      {% assign previous = p %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
 <header>
   <div class="jumbotron">
     <div class="container">
@@ -6,6 +19,16 @@
           {% include {{ page.header }} %}
         {% else %}
           <div class="col-sm-12 col-lg-12">
+            {% if page.group == 'sections' %}
+              <div id="sectionnav" class="col-sm-12 col-lg-12 row">
+                {% if previous %}
+                  <div class="sectionlink col-sm-4">Previous: <a href="{{ previous.permalink }}">{{ previous.title }}</a></div>
+                {% endif %}
+                {% if next %}
+                  <div class="sectionlink col-sm-4 pull-right">Next: <a href="{{ next.permalink }}">{{ next.title }}</a></div>
+                {% endif %}
+              </div>
+            {% endif %}
             <h1>{{ page.title }}</h1>
           </div>
         {% endif %}
