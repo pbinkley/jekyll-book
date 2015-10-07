@@ -26,3 +26,7 @@ navigation:
         href: #
       - title: Dropdown
         dropdown: sections
+
+gems:
+  - jekyll-sitemap
+
