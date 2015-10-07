@@ -44,12 +44,10 @@
       {% endif %}
     </div>
   </div>
-  {% if site.copyright %}
   <hr>
   <div class="container">
-    <p>{{ site.copyright }}</p>
+    {% include license.html %}
   </div>
-  {% endif %}
 </footer>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="{{ "/js/app.js" | prepend: site.baseurl }}"></script>
