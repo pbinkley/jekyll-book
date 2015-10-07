@@ -1,4 +1,45 @@
 /** Your custom theme CSS goes here. **/
+body { 
+	padding-top: 50px; 
+}
 #sectionnav {
 	margin: 15px 0;
+}
+.sectionlink {
+	line-height: 120%;
+}
+.sectionlink.right {
+	text-align: right;
+}
+
+body,
+h1,h2,h3,h4,h5,h6,
+input,
+button,
+select,
+textarea,
+.navbar-search .search-query {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 2.2em;
+}
+
+p {
+  text-indent: 1.5em;
+  margin-top: 0;
+  margin-bottom: 0; 
+}
+article > p:first-of-type {
+  text-indent: 0;
+}
+article > p:first-child:first-letter { 
+	float: left; 
+	font-size: 75px; 
+	line-height: 60px; 
+	padding-top: 4px; 
+	padding-right: 8px; 
+	padding-left: 3px; 
+}
+
+td, th {
+	vertical-align: top;
 }
