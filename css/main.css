@@ -50,6 +50,7 @@ article > p:first-child:first-letter {
 
 td, th {
 	vertical-align: top;
+	padding: 0 5px;
 }
 blockquote {
 	padding-left: 50px;
