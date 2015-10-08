@@ -11,6 +11,11 @@ body {
 .sectionlink.right {
 	text-align: right;
 }
+.citation {
+	margin: 15px 0;
+	line-height: 120%;
+	font-size: 0.85em;	
+}
 
 body,
 h1,h2,h3,h4,h5,h6,
