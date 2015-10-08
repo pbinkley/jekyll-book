@@ -16,6 +16,9 @@ body {
 	line-height: 120%;
 	font-size: 0.85em;	
 }
+.cover {
+	margin-top: 20px;
+}
 
 body,
 h1,h2,h3,h4,h5,h6,
