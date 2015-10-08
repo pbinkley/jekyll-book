@@ -2,7 +2,7 @@
 body { 
 	padding-top: 50px; 
 }
-#sectionnav {
+.sectionnav {
 	margin: 15px 0;
 }
 .sectionlink {

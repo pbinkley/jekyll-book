@@ -1,0 +1,10 @@
+{% if page.group == 'sections' %}
+  <div class="sectionnav col-sm-12 col-lg-12 row">
+    {% if previous %}
+      <div class="sectionlink col-sm-4">Previous: <a href="{{ previous.permalink }}">{{ previous.title }}</a></div>
+    {% endif %}
+    {% if next %}
+      <div class="sectionlink right col-sm-4 pull-right">Next: <a href="{{ next.permalink }}">{{ next.title }}</a></div>
+    {% endif %}
+  </div>
+{% endif %}
