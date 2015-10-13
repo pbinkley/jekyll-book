@@ -14,4 +14,20 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
   {% include googleanalytics.html %}
+   <!-- Place this data between the <head> tags of your website -->
+
+<!-- Twitter Card data -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@RobertCBinkley" />
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+<meta name="twitter:description" content="{{ site.description }}" />
+<meta name="twitter:image" content="{{ site.url}}{{site.baseurl}}/assets/cover.jpg" />
+
+<!-- Open Graph data -->
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+<meta property="og:image" content="{{ site.url}}{{site.baseurl}}/assets/cover.jpg" />
+<meta property="og:description" content="{{ site.description }}" />
+
 </head>
