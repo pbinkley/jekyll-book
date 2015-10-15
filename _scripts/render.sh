@@ -9,11 +9,15 @@ mkdir -p downloads
 # remove old versions
 rm downloads/*
 
+# process md
+ls _source/*.md | xargs -n 1 -I {} echo {} | sed 's/_source\///' \
+| xargs -n 1 -I {} echo grep -v \"^## \" _source/{} ">" sections/{} | sh
+
 # generate new versions
-#pandoc -s -S -f markdown+pipe_tables+footnotes -c test.css sections/*.md  -o downloads/$SLUG.html
-pandoc --latex-engine=xelatex -f markdown+pipe_tables+footnotes sections/*.md  -o downloads/$SLUG.pdf
-pandoc -S --epub-cover-image=assets/cover.jpg --epub-metadata=_downloads/epub/metadata.yml -f markdown+pipe_tables+footnotes sections/*.md  -o downloads/$SLUG.epub
-pandoc sections/*.md -t plain -o downloads/$SLUG.txt
+#pandoc -s -S -f markdown+pipe_tables+footnotes -c test.css _source/*.md  -o downloads/$SLUG.html
+pandoc --latex-engine=xelatex -f markdown+pipe_tables+footnotes _source/*.md  -o downloads/$SLUG.pdf
+pandoc -S --epub-cover-image=assets/cover.jpg --epub-metadata=_downloads/epub/metadata.yml -f markdown+pipe_tables+footnotes _source/*.md  -o downloads/$SLUG.epub
+pandoc _source/*.md -t plain -o downloads/$SLUG.txt
 pandoc sections/*.md -o downloads/$SLUG.md
 
 # generate yml list
