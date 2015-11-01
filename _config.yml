@@ -1,30 +1,21 @@
 # Site settings
-title: Your awesome title
-brand: MY BLOG
-email: your-email@domain.com
+title: Title of Book
+brand: Title of Book
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.google.com"
-copyright: © My Company 2013
+  Author, Title (Place: Publisher, Year)
+baseurl: "/path/to/work/" # the subpath of your site, e.g. /blog/
+url: "https://www.domain.com"
 
 # Build settings
 markdown: kramdown
-
-# The video that plays.
-video: "u7deClndzQw"
 
 # The navigation.
 navigation:
   left:
     links:
-      - title: About
-        href: /about/
-      - title: Link 2
-        href: #
-      - title: Dropdown
+      - title: Home
+        href: /path/to/work/
+      - title: Chapters
         dropdown: sections
       - title: Downloads
         dropdown: downloads

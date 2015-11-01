@@ -5,6 +5,7 @@ SLUG=`grep "^title:" _config.yml | sed 's/title: //' | sed -E 's/[.:?,!;]//g' | 
 # create directories if needed
 mkdir -p _data
 mkdir -p downloads
+mkdir -p sections
 
 # remove old versions
 rm downloads/*
