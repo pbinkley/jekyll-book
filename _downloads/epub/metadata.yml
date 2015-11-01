@@ -1,0 +1,19 @@
+---
+title:
+- type: main
+  text: Title
+- type: subtitle
+  text: Subtitle
+creator: Author
+creator:
+- role: editor
+  text: Editor
+publisher: Publisher
+date: Year
+identifier:
+- scheme: LCCN
+  text: 111111111
+- scheme: OCLC
+  text: 222222222
+---
+
