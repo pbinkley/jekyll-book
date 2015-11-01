@@ -1,6 +1,6 @@
 #!/bin/sh
 
-SLUG=What_Is_Right_with_Marriage
+SLUG=`grep "^title:" _config.yml | sed 's/title: //' | sed -E 's/[.:?,!;]//g' | sed 's/ /_/g'`
 
 # create directories if needed
 mkdir -p _data
