@@ -1,0 +1,56 @@
+---
+layout: default
+title: Search
+permalink: search/
+---
+
+<!--
+http://10consulting.com/2013/03/06/jekyll-and-lunr-js-static-websites-with-powerful-full-text-search-using-javascript/
+-->
+
+<div class="home">
+	<header class="post-header">
+		<h1>Search</h1>
+	</header>
+	
+	<article class="post-content">
+		<div id="search">
+ 		<form role="form" action="{{ site.baseurl }}/search" method="get">
+ 			<div class="form-group">
+ 				<input class="form-control" type="text" name="q" placeholder="Search">
+ 			</div>
+ 		</form>
+		</div>
+
+		<section id="search-results" style="display: none;">
+			<h3>Search results</h3>
+			<div class="entries">
+			</div>
+		</section>
+  
+		{% raw %}
+		<script id="search-results-template" type="text/mustache">
+			{{#entries}}
+			<article>
+				
+					<a href="{% endraw %}{{site.baseurl}}{% raw %}{{url}}">{{title}}</a>
+				
+			</article>
+			{{/entries}}
+		</script>
+		{% endraw %}
+  
+		<script src="{{ site.baseurl }}/js/search.min.js" type="text/javascript" charset="utf-8"></script>
+  
+		<script type="text/javascript">
+		$(function() {
+			$('#search-query').lunrSearch({
+				indexUrl: '{{ site.baseurl }}/js/index.json',           // URL of the `index.json` index data for your site
+				results:  '#search-results',          // jQuery selector for the search results container
+				entries:  '.entries',                 // jQuery selector for the element to contain the results list, must be a child of the results element above.
+				template: '#search-results-template'  // jQuery selector for the Mustache.js template
+			});
+		});
+		</script>
+	</article>
+</div>

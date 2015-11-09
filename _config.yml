@@ -19,7 +19,10 @@ navigation:
         dropdown: sections
       - title: Downloads
         dropdown: downloads
+  right:
+    content: searchbox.html
 
 gems:
   - jekyll-sitemap
   - octopress-debugger
+  - jekyll-lunr-js-search
