@@ -66,3 +66,25 @@ blockquote > p {
 div.footnotes {
 	margin-top: 2em;
 }
+
+.right {
+	text-align: right;
+}
+
+div.box {
+	max-width: 550px;
+	border: 1px solid black;
+	padding: 20px;
+	margin: 20px 0;
+	font-family: Courier, monospace;
+	font-size: 0.8em;
+}
+
+div.box p {
+	text-indent: 0;
+}
+
+div.box em {
+	font-style: normal;
+	text-decoration: underline;
+}
