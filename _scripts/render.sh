@@ -5,6 +5,7 @@ SLUG=`grep "^title:" _config.yml | sed 's/title: //' | sed -E 's/[.:?,!;]//g' | 
 
 # create directories if needed
 mkdir -p _site/downloads
+mkdir -p _data
 
 # generate new versions
 # TODO only render if changed
