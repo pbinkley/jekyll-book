@@ -8,10 +8,10 @@ mkdir -p _site/downloads
 
 # generate new versions
 # TODO only render if changed
-#pandoc -s -S -f markdown+pipe_tables+footnotes -c test.css _source/*.md  -o downloads/$SLUG.html
+#pandoc -s -S -f markdown+pipe_tables+footnotes -c test.css sections/*.md  -o downloads/$SLUG.html
 pandoc --latex-engine=xelatex -f markdown+pipe_tables+footnotes sections/*.md  -o _site/downloads/$SLUG.pdf
 pandoc -S --epub-cover-image=assets/cover.jpg --epub-metadata=_epub-metadata.yml -f markdown+pipe_tables+footnotes sections/*.md  -o _site/downloads/$SLUG.epub
-pandoc _source/*.md -t plain -o _site/downloads/$SLUG.txt
+pandoc sections/*.md -t plain -o _site/downloads/$SLUG.txt
 pandoc sections/*.md -o _site/downloads/$SLUG.md
 
 # generate yml list
