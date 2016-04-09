@@ -1,4 +1,4 @@
-Jekyll::Hooks.register :site, :after_reset do |site|
+Jekyll::Hooks.register :site, :pre_render do |site|
   # code to call before Jekyll renders the site
   system("_scripts/render.sh")
   # reload _data directory to pick up changes to downloads.yml
