@@ -10,7 +10,7 @@ url: "https://www.domain.com"
 markdown: kramdown
 # downloads.yml is generated during the rendering, so we need to 
 # ignore it or it will cause an infinite loop of re-rendering
-exclude: ['_data/downloads.yml']
+exclude: ['_data/downloads.yml','downloads']
 
 # The navigation.
 navigation:
