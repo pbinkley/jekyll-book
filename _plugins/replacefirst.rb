@@ -1,0 +1,12 @@
+# from http://stackoverflow.com/questions/25802204/jekyll-filter-for-regex-substitution-in-content
+
+module Jekyll
+  module RegexFilter
+    def replace_regex(input, reg_str, repl_str)
+      re = Regexp.new reg_str
+      input.sub re, repl_str
+    end
+  end
+end
+
+Liquid::Template.register_filter(Jekyll::RegexFilter)
