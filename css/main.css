@@ -36,10 +36,17 @@ p {
   margin-top: 0;
   margin-bottom: 0; 
 }
-article > p:first-of-type {
-  text-indent: 0;
+article p:first-child {
+	float: right;
+	padding: 10px;
+	border: 1px solid black;
+	margin: 4px;
+	text-indent: 0;
 }
-article > p:first-child:first-letter { 
+article > p:nth-child(2) {
+    text-indent: 0;
+}
+article > p:nth-child(2):first-letter { 
 	float: left; 
 	font-size: 75px; 
 	line-height: 60px; 
@@ -87,4 +94,7 @@ div.box p {
 div.box em {
 	font-style: normal;
 	text-decoration: underline;
+}
+dt {
+	margin-top: 1em;
 }

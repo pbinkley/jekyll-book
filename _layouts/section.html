@@ -8,7 +8,7 @@ layout: default
   </header>
 
   <article class="post-content">
-    {{ content }}
+    {{ content | replace_regex: '<h2.*</h2>', ''}}
   </article>
 
 </div>
