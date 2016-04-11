@@ -8,7 +8,7 @@ group: sections
 
 [pagebreak.33]
 
-# CHAPTER V. FINAL REVISION OF A UNION LIBRARY CATALOG
+## CHAPTER V. FINAL REVISION OF A UNION LIBRARY CATALOG
 
 The final revision of the catalog consists of the correcting and
 completing of inaccurate and incomplete descriptions, verification of all
@@ -110,9 +110,9 @@ List of Serials* these should also be searched in the catalog. All variant
 cards including all duplicate cards for the same serial are gathered. Accepting the entry in the *Union List of Serials* as standard, the official
 entry is written on a slip. 'See references' from these variant entries
 as well as from title variations given in the *Union List of Serials*, to the
-officinl entry are written on slips, each of which is clipped to the corresponding variant card. These together with all duplicate entries, gathered
+official entry are written on slips, each of which is clipped to the corresponding variant card. These together with all duplicate entries, gathered
 in one group and covered by the 'master' slip carrying the official entry,
 are sent to the typist. Upon completion of the typing, the cataloger checks
 the entries and the stamper is instructed to place the location symbols for
-a11 duplicate cards on the one official entry card.
+all duplicate cards on the one official entry card.
 

@@ -7,10 +7,7 @@ group: sections
 ---
 
 [pagebreak.1]
-
-# UNION CATALOGING PROJECTS
-
-# TABLE OF CONTENTS
+{:.pnum}
 
 |     | *Pages* |
 |Introduction | 1-5 |

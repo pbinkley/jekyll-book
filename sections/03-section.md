@@ -8,7 +8,7 @@ group: sections
 
 [pagebreak.6]
 
-# CHAPTER I. ORGANIZATION OF UNION CATALOG PROJECT
+## CHAPTER I. ORGANIZATION OF UNION CATALOG PROJECT
 
 The personnel required for the compilation of a union catalog will
 vary with the size of the catalog and the time within which the work is

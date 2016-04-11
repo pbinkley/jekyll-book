@@ -16,7 +16,7 @@ as heading. The author heading may consist of a personal
 or a corporate name or some substitution for it, e.g.,
 initials, pseudonym, etc.
 
-CORPORATE EFTRY
+CORPORATE ENTRY
 : Entry under the names of bodies or organizations for works
 published in their name or by their authority.
 

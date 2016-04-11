@@ -6,7 +6,7 @@ id: s04
 group: sections
 ---
 
-[pagebreak.8]
+p.8
 
 ## CHAPTER II. OPERATION OF PHOTOGRAPHIC UNIT
 
@@ -103,7 +103,7 @@ operator may be chosen.
 
 [pagebreak.11]
 
-will go into tne machine straight if they are held at a point above the
+will go into the machine straight if they are held at a point above the
 punched hole through which the tray guide-rod passes. The card is photographed
 and drops face down in a trough by the operator's knees. If it is a single
 author card, followed immediately in the tray by a secondary card or cards
@@ -199,7 +199,7 @@ together. If there is only one crew, the operator, with mailing supplies, can
 be responsible for the marking and mailing.
 
 \*\* To reduce storage difficulties and to keep recording at a minimum, and to
-meet the limitations of the capacity film projectors which usually accomodate
+meet the limitations of the capacity film projectors which usually accommodate
 film rolls containing a 100' of film or less, it is advisable to cut the film
 in not less than 100' lengths. At the conclusion of photographing one library,
 some unexposed film may remain in the camera. Without removing the exposed
@@ -221,5 +221,5 @@ in order to discover illegible or blurred cards. If the photographers are
 still located in the library, represented by the film found illegible, a
 record of the cards blurred is made and referred to the photographing unit
 for re-takes. Finally the worker, checking the film, labels the film
-container and a card is made for tne film file. (Appendix D, samples 1 & 2)
+container and a card is made for the film file. (Appendix D, samples 1 & 2)
 

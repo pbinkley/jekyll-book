@@ -118,7 +118,7 @@ LC
 6. Copy statement "edited by" or "translated by" or "compiled by" just
 as it appears on the film.
 
-7. Copy editor, (ed.) compiler, (comp.) and translater, (tr.) on the
+7. Copy editor, (ed.) compiler, (comp.) and translator, (tr.) on the
 author line two spaces after the name; or if there are dates, two
 spaces after the dates.
 
@@ -276,7 +276,7 @@ Sample 9
 
 <div class="box" markdown="1">
 
-West Virginig country life conference
+West Virginia country life conference
 
 ...Proceedings of the first- West Vir-  
 ginia country life conference and the tenth-  
@@ -347,7 +347,7 @@ Sample 12
 
 <div class="box" markdown="1">
 
-Woodes, Nathaniel, f1. 1580?
+Woodes, Nathaniel, fl. 1580?
 
 The conflict of conscience.
 

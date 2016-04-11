@@ -17,7 +17,7 @@ navigation:
   left:
     links:
       - title: Home
-        href: /
+        href: /wpaunioncatalog/
       - title: Chapters
         dropdown: sections
       - title: Downloads
