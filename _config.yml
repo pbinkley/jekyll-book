@@ -7,7 +7,7 @@ baseurl: "/wpaunioncatalog" # the subpath of your site, e.g. /blog/
 url: "https://www.domain.com"
 
 # Build settings
-markdown: kramdown
+markdown: pandoc
 # downloads.yml is generated during the rendering, so we need to 
 # ignore it or it will cause an infinite loop of re-rendering
 exclude: ['_data/downloads.yml','downloads']
@@ -29,3 +29,4 @@ gems:
   - jekyll-sitemap
   - octopress-debugger
   - jekyll-lunr-js-search
+  - jekyll-pandoc
