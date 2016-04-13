@@ -2,9 +2,13 @@
 
 module Jekyll
   module RegexFilter
-    def replace_regex(input, reg_str, repl_str)
-      re = Regexp.new reg_str
-      input.sub re, repl_str
+    def replace_regex(input, reg_str, repl_str, firstonly)
+      re = Regexp.new reg_str, Regexp::MULTILINE
+      if firstonly
+	      input.sub re, repl_str
+	  else
+	      input.gsub re, repl_str
+	  end
     end
   end
 end
