@@ -193,7 +193,7 @@ course, not uncommon, is necessary then a given 100' of film contains exposures
 for cards taken from more than one library catalog.
 
 [^04-3]: The films are either mailed out by the machine operator every day, or they
-are collected and shipped daily by the project supervisor. This precedure depends upon the number of photographing units. If there are several crews in
+are collected and shipped daily by the project supervisor. This procedure depends upon the number of photographing units. If there are several crews in
 operation in different locations, then the films should be collected and shipped
 together. If there is only one crew, the operator, with mailing supplies, can
 be responsible for the marking and mailing.

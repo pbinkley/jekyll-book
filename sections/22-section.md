@@ -14,12 +14,12 @@ In operating a statewide union library catalogue project it is advisable
 to arrange the working periods of the "Photographers" of the Photographing Unit
 so that the equipment will not be idle any appreciable length of time. If only
 one photographing machine, employing one operator, is in service, working time
-requrements for the operator and the time lost in moving the machine, result
+requirements for the operator and the time lost in moving the machine, result
 in an uneconomical use of the equipment which will lie idle a considerable time
 in the course of a working month.
 
 For compiling an average sized union catalogue it is recommended that
-two phptographing machines should operate simultaneously at separate points.
+two photographing machines should operate simultaneously at separate points.
 The additional speed of coverage will reduce the unit rental costs per machine
 and will result in an overall rental saving since the whole process will be
 more rapidly completed. In addition travel and per diem costs for the crew

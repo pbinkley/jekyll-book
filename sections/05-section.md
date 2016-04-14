@@ -23,7 +23,7 @@ to photograph the completed union catalog.
 
 ## Training of typists
 
-It is imnortant that each tvpist understand the basic conceptions
+It is important that each typist understand the basic conceptions
 in the preparation of the union catalog and the reasons for the existence of
 a union catalog. Since most of the typists will not be familiar with library
 methods, the success of the transcribing depends upon the clarity and simplicity
@@ -268,7 +268,7 @@ departmental libraries. If the union library catalog is to show locations
 in departmental libraries, the typist marks these special symbols in the
 lower left-hand corner of his typed card, thus indicating, to the stamper,
 
-[pagebreak]
+[pagebreak.22]
 
 the stamp which this card requires in order to differentiate it from the
 cards for books in the main library only. The importance of these stamps
@@ -396,7 +396,7 @@ be found that the mechanical arrangement outlined in "Simple Filing Procedure" i
 cards become smaller, the filer scans by words rather than by letters.
 The more export workers should perform the filing operation while the
 remaining workers perform the sorting and alphabetizing operations. As
-the sorters acouire more skill, they may be assigned to perform all three
+the sorters acquire more skill, they may be assigned to perform all three
 operations.
 
 [pagebreak.26]

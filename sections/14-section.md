@@ -46,10 +46,10 @@ pay special attention to three items on the card. The author, the
 title, and the date.
 
 A. *Author* 
-: The author's name, whether personal, or coporate,
+: The author's name, whether personal, or corporate,
 is the chief and the first thing to be considered.
 If two authors are given, disregard the second. In
-other words all tne works by the same author should
+other words all the works by the same author should
 be found in one place.
 
 B. *Title* 

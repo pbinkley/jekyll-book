@@ -16,7 +16,7 @@ group: sections
 2. In arranging authors with the same surname, file them according to their
 given names.
 
-3. As a general principle, always file cards givirg incomplete information
+3. As a general principle, always file cards giving incomplete information
 before those which cover the same item thoroughly. Thus the name Drake
 would be arranged:
 

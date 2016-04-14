@@ -77,11 +77,11 @@ typed cards.
 
 In checking the work of the combiner, any doubt about cards which the
 combiner decided were duplicates, should be expressed by the stamper. Dates
-must be checked for possible error. Frequentlv an eight is read for a three
+must be checked for possible error. Frequently an eight is read for a three
 and a three for an eight.
 
 The average output per day per combiner is approximately one and a
-ha1f trays (1500 cards per tray, and a six hour day). Any one day's output
+half trays (1500 cards per tray, and a six hour day). Any one day's output
 depends, of course, upon the number of cards in the tray, and the difficulty
 and complexity of the entries. However, a combiner may be expected to average
 about six trays per week. Accordingly, ten combiners may be expected to process
@@ -101,7 +101,7 @@ The following uses of duplicate cards are suggested:
 1. Replacement of manuscript or worn cards in catalogs of cooperating
 libraries.
 
-2. Added entries for joint authors, illustrators, editors and translaters for the union catalog if such entries are made subsequently.
+2. Added entries for joint authors, illustrators, editors and translators for the union catalog if such entries are made subsequently.
 
 Both of these suggestions require considerable testing, but in the
 beginning stages of the compilation of a union catalog the uses are not to be
@@ -113,6 +113,6 @@ not yet apparent, duplicate cards should not be destroyed.
 Because of the completeness of the information, duplicate LC cards
 always should be segregated. In the event that duplicate LC cards are used
 as suggested in item 2 preceding, each card should carry the location symbols
-found on the identical LC card filed in the Uhion Catalog. Thus, if added entries
+found on the identical LC card filed in the Union Catalog. Thus, if added entries
 are made, the necessary location symbols are already on the cards.
 

@@ -29,7 +29,7 @@ Date  No.\ of  No.\ of Cover
 
 The number of trays, which may be expected to be processed daily by
 one photographing crew varies from 30 to 55, depending upon the contents of each
-tray, the frequency of the occurance of main entries, and upon the number of
+tray, the frequency of the occurrence of main entries, and upon the number of
 hours worked. Likewise the total of cards photographed daily varies. To illustrate one of these influencing factors, that of tray contents, the heading
 Europe is cited. Here, although the majority of entries are subject entries,
 there must be followed the same careful process of a card by card examination

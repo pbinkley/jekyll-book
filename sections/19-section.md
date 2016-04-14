@@ -41,7 +41,7 @@ entries into a logical arrangement even if typescript cards are incomplete,
 
 [pagebreak.L-2]
 
-be necessarv to copy a large percentage of the LC cards appearing on the film
+be necessary to copy a large percentage of the LC cards appearing on the film
 and (6) most important, the nucleus of LC cards supplies technical standards
 contributing to the permanency of the catalog.
 
@@ -74,7 +74,7 @@ In connection with the operation indicated under (4) above the
 following notes may be of assistance:
 
 (1) A typist is assigned a film from which a portion of the LC
-order hxs been made. This film is checked with the corresponding trays of LC cards. Working from the unaltered LC
+order has been made. This film is checked with the corresponding trays of LC cards. Working from the unaltered LC
 
 [pagebreak.L-3]
 
@@ -85,12 +85,12 @@ and above the collation correspond. These cards are turned
 end-up; in the tray. Any LC cards on the film not found in
 the tray are typed and inserted in their proper position. If
 an old LC card on the film agrees with a new LC card among the
-cards ordered, exceot for a title variance, accept the new LC
+cards ordered, except for a title variance, accept the new LC
 entry only if the specific title variance is given on it under
 the note "title varies."
 
 (2) As indicated above, it is necessary to type a card when a
-corresoonding card is not present in the LC order. If the LC
+corresponding card is not present in the LC order. If the LC
 card to be typed contains an old form of an entry, type it,
 using the form of the entry found on one of the new LC cards,
 which represents a work of the same author, e.g., film shows:

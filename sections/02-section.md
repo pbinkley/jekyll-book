@@ -45,7 +45,7 @@ administrative economy through borrowing expensive materials, which are
 located by the union catalog in a cooperating library of the area or region,
 instead of purchasing such materials, and through a cooperative agreement
 specifying each library's responsibility in purchasing expensive materials
-in special fie1ds of knowledge; and (4) lead to the establishment of an
+in special fields of knowledge; and (4) lead to the establishment of an
 authority and basis for cataloging procedure in the area or region for which
 the union catalog is compiled.
 
@@ -54,7 +54,7 @@ significant from a national viewpoint, as well as of local significance. It
 should give impetus to the plans for a more efficient national bibliographic
 service if uniform methods of construction and inclusion are employed.
 Specifically, catalogs of this type undoubtedly disclose additional unusual
-or rare matcerial of which the union catalog of the Library of Congress has no
+or rare material of which the union catalog of the Library of Congress has no
 record and which is of particular value in increasing the effectiveness of the
 bibliographic services rendered by this country's national library.
 
@@ -65,7 +65,7 @@ services on a national scale.
 Prior to the final decision of undertaking the formation of a union
 library catalog, the professional librarians, scholars and research workers
 of the area or region should study, through a representative committee,
-the advisaoility of creating such a catalog. It is suggested that the
+the advisability of creating such a catalog. It is suggested that the
 committee should be interested in the following points; (1) what a union
 catalog is, (2) what its purpose and practical functions are, (3) the need
 of a union catalog in the specific area or region, (4) the inaccessibility

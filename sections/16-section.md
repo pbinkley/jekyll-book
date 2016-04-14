@@ -11,7 +11,7 @@ group: sections
 ## Appendix I: PRODUCTION RECORDS KEPT BY INDIVIDUAL SUPERVISORS FOR EACH GROUP OF TWENTY TYPISTS
 
 These records are totalled each week and the totals are
-incorporated into a Production reocrd for the whole project.
+incorporated into a Production record for the whole project.
 
 | Typist | 2 | 3 | 4 | 5 | 6 | | Grand Total|
 |--------|--:|--:|--:|--:|--:|--:|-----------:|
@@ -77,7 +77,7 @@ shorter entries and (4) less foreign language.
 
 TOTAL PRODUCTION RECORD OF ALL TYPING PROCESS
 
-From these Combined unit reports a total production record of all typing
+From these combined unit reports a total production record of all typing
 is made.
 
 |UNIT | February<br>2 | 3 | 4 | 5 | 6 | Total |
