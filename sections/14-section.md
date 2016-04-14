@@ -15,11 +15,13 @@ sorting of cards:
 
 1. Sort all cards into the following 25 letter groups:
 
-| A | F | K | P | U |
-| B | G | L | Q | V |
-| C | H | M | R | W |
-| D | I | N | S | XY |
-| E | J | O | T | Z |
+--- --- --- --- ----
+ A   F   K   P   U
+ B   G   L   Q   V
+ C   H   M   R   W
+ D   I   N   S   XY
+ E   J   O   T   Z
+--------------------
 
 Disregard the initial article, i. e., *the*, *a*, *an*, and corresponding
 articles in foreign languages, and such initials as *I*., *K*., *K.K.*, and

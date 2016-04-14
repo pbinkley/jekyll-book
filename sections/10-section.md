@@ -10,22 +10,23 @@ group: sections
 
 ## Appendix C: INDIVIDUAL LIBRARY DESCRIPTION. APPRAISAL AND RECORD OF MICROFILMING
 
-| Name of Library:              | |
-| Address:                      | Abbreviation: |
-|                               | Name of Librarian: |
-|                               | In charge of Operation: |
-| Characteristics of Library:   | |
-| Characteristics of Catalog:   | |
-|-------------------------------|-------------|
-| Filmed on (dates):            | |
-| Supervisor                    | Operator |
-| No. of Films:     LC cards    | All O.K. |
-| No. of Cards:                 | | 
-| Represents Library completely: | |
-|                               | See correspondence: |
-| Future plans:                 | |
-| Detail of reels:              | |
-| Notes follow:                 | All cards finished: |
+------------------------------ ------------------------
+Name of Library:
+Address:                       Abbreviation:
+                               Name of Librarian:
+                               In charge of Operation:
+Characteristics of Library:
+Characteristics of Catalog:
+Filmed on (dates):           
+Supervisor                     Operator
+No. of Films:     LC cards     All O.K.
+No. of Cards:                 
+Represents Library completely:
+                               See correspondence:
+Future plans:
+Detail of reels:
+Notes follow:                  All cards finished:
+-----------------------------------------------------
 
 The information required by the first part of this record is gathered by the professional supervisor of the union cataloging project.
 

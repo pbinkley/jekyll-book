@@ -45,11 +45,15 @@ sent by the cooperating library.
 
 <div class="box" markdown="1">
 
-| *University of Nebraska* | Library |
-| | Photographing<br>Completed *12/15/38* |
- 
-| *Date Rec'd*. | *No. of Cards* | *From* | *To* |
-| 1/31/39 | 340 | 12/15/38 | 1/31/39 |
+------------------------ -------------------------------------
+*University of Nebraska* Library
+                         Photographing<br>Completed *12/15/38*
+--------------------------------------------------------------
+
+-------------- ---------------- --------- ---------
+*Date\ Rec'd*. *No.\ of\ Cards*  *From*    *To*
+ 1/31/39                 340    12/15/38  1/31/39
+---------------------------------------------------
 
 </div>
 

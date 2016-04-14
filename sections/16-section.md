@@ -14,7 +14,7 @@ These records are totalled each week and the totals are
 incorporated into a Production reocrd for the whole project.
 
 | Typist | 2 | 3 | 4 | 5 | 6 | | Grand Total|
-|--------|---|---|---|---|---|-|------------|
+|--------|--:|--:|--:|--:|--:|--:|-----------:|
 |Smith | 150 | 166 | 256 | 208 | 223 | 1003 | 86,267|
 |Jones | 149 | 141 | 145 | 135 | 153 | 723|
 |Atwood | 110 | 159 | 156 | 145 | 180 | 750|
@@ -35,7 +35,7 @@ incorporated into a Production reocrd for the whole project.
 |Winston | 174 | 136 | 154 | 162 | 88 | 614|
 |Arthur | 116 | 170 | 242 | 253 | 120 | 901|
 |Ullory | 169 | 207 | 100 | 100 | 164 | 638|
-|-------|-----|-----|-----|-----|-----|----|------|
+|-------|-----|-----|-----|-----|-----|-------|---------|
 |       | 2328 | 2923 | 3173 | 3112 | 2491 | 14027 | 100,394 |
 
 [pagebreak.I-2]
@@ -46,8 +46,8 @@ shorter entries and (4) less foreign language.
 
 
 
-|TYPIST | April<br>17 | 18 | 19 | 2O | 21 | Grand Total|
-|-------|-----|-----|-----|-----|-----|----|------|
+|TYPIST | April<br>17 | 18 | 19 | 20 | 21 | | Grand Total|
+|--------|--:|--:|--:|--:|--:|--:|-----------:|
 |Smith | 330 | 320 | 323 | 230 | 265 | 1468 | 213,134|
 |Jones |  | 250 | 251 | 178 | 241 | 920|
 |Atwood | 234 | 235 | 230 | 215 | 250 | 1164|
@@ -68,7 +68,7 @@ shorter entries and (4) less foreign language.
 |Winston | 196 | 193 | 211 | 217 | 266 | 1083|
 |Arthur | 202 | 185 | 265 | 208 | 101 | 961|
 |Ullery | 200 | 200 | 220 | 243 | 179 | 1042|
-|-------|-----|-----|-----|-----|-----|----|------|
+|-------|-----|-----|-----|-----|-----|-------|---------|
 |       | 4096 | 4038 | 4469 | 4251 | 4753 | 21607 | 234,741|
 
 [pagebreak.I-3]
@@ -81,11 +81,11 @@ From these Combined unit reports a total production record of all typing
 is made.
 
 |UNIT | February<br>2 | 3 | 4 | 5 | 6 | Total |
-|-----|---------------|---|---|---|---|-------|
+|-----|--------------:|--:|--:|--:|--:|------:|
 |I | 4,020 | 3,413 | 2,700 | 4,110 | 3,100 | 17,343 |
 |II | 4,312 | 2,111 | 4,003 | 3,411 | 3,001 | 16,838 |
 |III | 2,221 | 4,871 | 4,612 | 2,978 | 4,601 | 19,283 |
- 
+
 The number of cards typed per day varies in proportion to the legibility
 of the film, percentage of foreign languages, general reaction of typist to the
 day's work, and length of the day. After a month's work on a film, the typist

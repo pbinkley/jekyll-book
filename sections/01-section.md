@@ -10,6 +10,7 @@ group: sections
 {:.pnum}
 
 |     | *Pages* |
+|:----|--------:|
 |Introduction | 1-5 |
 |Chapter I | 6-7 |
 |Organization of Union Catalog Project| |

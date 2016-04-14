@@ -14,11 +14,18 @@ group: sections
 
 Sample 1
 
-| Date | No. of Trays | No. of Cards | Cover   |
-| 2/3  | 40           | 4,901        | A - Cam |
-| 2/4  | 36           | 5,190        | Cam-Dow |
-| 2/5  | 35           | 5,285        | Dow-Eva |
-| 2/6  | 32           | 5,003        | Eva-Gen |
+----------------------------------
+Date  No.\ of  No.\ of Cover
+        Trays    Cards
+---- -------- -------- -----------
+2/3        40    4,901 A - Cam
+
+2/4        36    5,190 Cam-Dow
+
+2/5        35    5,285 Dow-Eva
+
+2/6        32    5,003 Eva-Gen
+----------------------------------
 
 The number of trays, which may be expected to be processed daily by
 one photographing crew varies from 30 to 55, depending upon the contents of each
@@ -34,11 +41,18 @@ Sample 2
 
 University of Nebraska Library
 
-| Reel No. | Film No. | Section Covered | No. of Cards | Date Mailed |
-| 1.       | 1.       | A-Barq          | 5,200        | 2/3/39      |
-|          | 2.       | Barq-Car        | 5,188        | 2/4/39      |
-| 2.       | 3.       | Car-Eva         | 4,988        | 2/5/39      |
-|          | 4.       | Eva-Gen         | 5,003        | 2/6/39      |
+-----------------------------------------------------------------
+Reel\ No. Film\ No. Section           No.\ of\ Cards Date\ Mailed 
+                    Covered
+--------- --------- ---------------- --------------- ------------
+1.        1.        A-Barq                     5,200 2/3/39
+
+          2.        Barq-Car                   5,188 2/4/39
+
+2.        3.        Car-Eva                    4,988 2/5/39
+
+          4.        Eva-Gen                    5,003 2/6/39
+-----------------------------------------------------------------
 
 This record not only keeps a daily account of work done, but also
 records the daily "incorporation" of film on the project. The two records answer the

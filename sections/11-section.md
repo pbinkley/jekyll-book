@@ -10,17 +10,21 @@ group: sections
 
 ## Appendix D: FILM RECORDS KEPT AT THE TYPING HEADQUARTERS
 
-## Film file card
+### Film file card
 
 Sample 1 (3x5")
 
 <div class="box" markdown="1">
 
-| University of Nebraska *Library* | Film #1 Covers A-Barq |
-|                                  | *Typist* Smith
-| Started Completed                | Includes cards in non-Roman alphabet |
-^
-| Remarks: | Blurred cards between American art and American Association of artists rephotographed on Film #3 |
+-------------------------------- ----------------------------------------
+University of Nebraska *Library* Film #1 Covers A-Barq
+
+                                 *Typist* Smith
+
+Started Completed                Includes cards in non-Roman alphabet
+-------------------------------------------------------------------------
+
+Remarks: Blurred cards between American art and American Association of artists rephotographed on Film #3
 
 </div>
 
@@ -28,7 +32,7 @@ Film file cards are made and filed alphabetically by the name
 of the library immediately after the developed films have been checked for
 blurred photographs. The information on the center line of Sample 1 is inserted at the finish of the typing.
 
-## Label pasted on each film container
+### Label pasted on each film container
 
 Sample 2
 
@@ -38,7 +42,7 @@ A-Barq
 
 [pagebreak.D-2]
 
-## Typist's Work Record
+### Typist's Work Record
 
 Sample 3
 
@@ -47,8 +51,11 @@ Sample 3
 Smith, John Supervisor: Hill
 Reported: 2/3/39
 
-| Library           | Film No. | Covers | Start   | Complete |
-| Univ. of Nebraska | #1       | A-Barq | 2/12/39 | 3/28/39  |
+--------------------------------------------------
+Library           Film No. Covers Start   Complete
+----------------- -------- ------ ------- --------
+Univ. of Nebraska #1       A-Barq 2/12/39 3/28/39
+--------------------------------------------------
 
 </div>
 
