@@ -95,13 +95,11 @@ for permanently sustaining the catalog.
 If the definite plans of the Union Catalog Committee results in the
 application for a WPA project to prosecute the plans, the obligation of co-operating libraries falls into four categories: (1) Each library must allow
 its card catalog to be photographed. This entails, at the most, an assignment of a "small amount of working space to the "photographing crew" to set
-up the equipment and to select the catalog cards to be photographed.\* (2)
+up the equipment and to select the catalog cards to be photographed.[^02-1] (2)
 Each library must agree to supply a typed or printed card for each of its
 books acquired after photographing, and supply also a card or slip for each
 book withdrawn from its collection, (3) supply professional assistance to
 the "photographing crew" when there are questions which arise from the peculiarities inherent in the cataloging procedure used by the particular
-
-\* Photographing process, see Page 4.
 
 [pagebreak.4] 
 
@@ -109,6 +107,8 @@ library, and (4) librarians of the cooperating libraries should maintain a
 real interest in the progress of the whole union catalog project, familiarize
 themselves with all elements of operation and consider it their project to
 the point of giving whatever constructive criticism they feel is necessary.
+
+[^02-1]: Photographing process, see Page 4.
 
 It has been found that WPA projects are particularly well adapted
 for making the initial and basic compilation of a union library catalog. The

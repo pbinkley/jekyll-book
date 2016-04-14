@@ -44,7 +44,7 @@ and undertakes a card by card examination of all the cards in that tray,
 
 checking the position of each card in relation to those cards which precede
 and those which follow it. All like titles for the same author are compared.
-If they agree with respect to title, edition, place, publisher, date of imprint and paging, they are clipped together, the best card\* on top, and are
+If they agree with respect to title, edition, place, publisher, date of imprint and paging, they are clipped together, the best card[^06-1] on top, and are
 placed end up at their correct position in the tray. Where a group of
 authors of the same surname appears, all those author entries which have
 only initials and those which have only the surname are carefully checked
@@ -68,7 +68,7 @@ the tray label, is placed in the front of the tray which then is sent to
 the stamper. The stamper checks the work of the combiner, examining each
 group of cards before stamping all the symbols on the card placed first.
 
-\* The best card of a group of duplicates is that card which is the most
+[^06-1]: The best card of a group of duplicates is that card which is the most
 complete and is most nearly in correct cataloging form. LC cards will
 be considered the best cards in a group which includes both LC and
 typed cards.

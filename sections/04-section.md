@@ -71,10 +71,17 @@ or other person skilled in the operation of the machine should be present
 
 [pagebreak.10]
 
-to set up the equipment, and to teach *all three members of the crew*\* the
+to set up the equipment, and to teach *all three members of the crew*[^04-1] the
 routine of the film loading and unloading of the camera and the methods
 of making mechanical adjustments which are frequently necessary in the
 course of operation.
+
+[^04-1]: In case of illness or absence of the operator chosen the others should
+know how to operate the machine. The operator should not be selected
+until the photographic machine company representative and the supervisor can see which one of the three shows the greatest aptitude for the
+photographing. Thus, all three are taught to select, and all are given
+a chance to operate the machine. By the second day the most efficient
+operator may be chosen.
 
 When a selector has up-ended all author cards in a tray, the
 photographer places the tray on the shelf of the machine. The machine
@@ -94,13 +101,6 @@ trough. The guide is carefully set so that the cards will be near the
 center of the film with enough margin on the unperforated side of the film
 for possible checks and notes which may be made in the future. The cards
 
-\* In case of illness or absence of the operator chosen the others should
-know how to operate the machine. The operator should not be selected
-until the photographic machine company representative and the supervisor can see which one of the three shows the greatest aptitude for the
-photographing. Thus, all three are taught to select, and all are given
-a chance to operate the machine. By the second day the most efficient
-operator may be chosen.
-
 [pagebreak.11]
 
 will go into the machine straight if they are held at a point above the
@@ -119,20 +119,20 @@ next up-ended card, or group of cards, returns them to the tray, until all
 cards selected are filmed. If this procedure is followed carefully, the
 catalog cannot be disarranged in any way. As soon as the photographing of
 a tray is completed, the guide rod must be inserted and the tray immediately
-returned to its proper place in the catalog.\*
+returned to its proper place in the catalog.[^04-2]
+
+[^04-2]: Under no circumstances are any trays to be left unphotographed at the end
+of the day. To avoid any waste of time, it has been found of help to have
+the operator report for work one half hour later in the morning than the
+selectors. There are then several trays for him to start work on immediately, and by staying a half hour later in the afternoon all the trays selected
+on that day can be easily finished. Thus the number of trays selected each
+day is identical with the number photographed each day.
 
 After the supervisor has had an opportunity to judge the preferences
 and aptitudes of the crew members, the machine instructor will redrill the
 best operator in the rudiments handling the equipment. Thus the members
 of the photographing unit properly assigned now can be expected to function
 with the greatest efficiency possible.
-
-\* Under no circumstances are any trays to be left unphotographed at the end
-of the day. To avoid any waste of time, it has been found of help to have
-the operator report for work one half hour later in the morning than the
-selectors. There are then several trays for him to start work on immediately, and by staying a half hour later in the afternoon all the trays selected
-on that day can be easily finished. Thus the number of trays selected each
-day is identical with the number photographed each day.
 
 [pagebreak.12]
 
@@ -182,23 +182,23 @@ appraisal and record of microfilming* (Appendix C) maintained by the project
 supervisor.
 
 At the conclusion of the day's work the films are boxed and sent to
-the laboratory for developing.\* The boxes are marked with the name and address
+the laboratory for developing.[^04-3] The boxes are marked with the name and address
 of the union catalog, and marked lightly in pencil with the name of the library
 catalog represented by the cards photographed on the enclosed film and with the
 section of the alphabet covered by the photographed cards. This assists in
 identifying each roll of developed film if it is returned with several others.
 The laboratory returns the developed film to the catalog typing headquarters in
-100' lengths,\*\* unless instructed to cut the film differently. This latter
+100' lengths,[^04-4] unless instructed to cut the film differently. This latter
 course, not uncommon, is necessary then a given 100' of film contains exposures
 for cards taken from more than one library catalog.
 
-\* The films are either mailed out by the machine operator every day, or they
+[^04-3]: The films are either mailed out by the machine operator every day, or they
 are collected and shipped daily by the project supervisor. This precedure depends upon the number of photographing units. If there are several crews in
 operation in different locations, then the films should be collected and shipped
 together. If there is only one crew, the operator, with mailing supplies, can
 be responsible for the marking and mailing.
 
-\*\* To reduce storage difficulties and to keep recording at a minimum, and to
+[^04-4]: To reduce storage difficulties and to keep recording at a minimum, and to
 meet the limitations of the capacity film projectors which usually accommodate
 film rolls containing a 100' of film or less, it is advisable to cut the film
 in not less than 100' lengths. At the conclusion of photographing one library,

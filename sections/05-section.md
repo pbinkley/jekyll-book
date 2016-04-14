@@ -43,7 +43,7 @@ projector and a sample reel should then be shown. It is necessary to explain
 
 that the light used in the projector is not too dim and that working from the
 screen impairs the vision in no way. Often the worker's first reaction is
-that it is impossible to see all the words on the screen. After the introduction, proceed with instruction in the typing process.\*
+that it is impossible to see all the words on the screen. After the introduction, proceed with instruction in the typing process.[^05-1]
 
 Under no circumstances should the period of typing readjustment be
 rushed. A careful, step by step, instruction period, using the easiest
@@ -69,7 +69,11 @@ In acquainting typists with the provisions of the *Instructions* it
 will be found convenient first to drill the typist in items one through
 sixteen. After these are mastered, instruction may be given in items
 
-\* Ascertain typing exporience and how long the interval since last operating
+[pagebreak.17]
+
+seventeen through twenty.
+
+[^05-1]: Ascertain typing experience and how long the interval since last operating
 a typewriter. If this period exceeds a year, an hour or so a day should be
 given to renew facility in the touch system. Average typing skill is a necessary
 prerequisite if reasonably efficient operation is to be attained at the outset.
@@ -77,16 +81,12 @@ Workers without basic typing skill may never be adequate since there arises the
 further complication of learning the technique of copying library catalog cards
 according to standard forms.
 
-[pagebreak.17]
-
-seventeen through twenty.
-
 Typists next are given selected groups of miscellaneous entries
 which are transcribed for practice. Each typist then attempts the revision
 of the work, with the help of the supervisor who points out every error,
 however minute, and explains why it is an error. It is better procedure to
 have the typist practice transcribing from actual cards, covering all examples,
-than from the film itself.\*
+than from the film itself.[^05-2]
 
 The length of the instructional period varies with each typist.
 The establishment of facility with technique and of self-confidence requires
@@ -94,7 +94,7 @@ the patience and careful attention of the supervisor for from three days to
 a week. After sufficient skill is developed by practice, a film and projector
 are assigned to the typist.
 
-\* The following reasons which may be obvious, are given: (1) The typist is not
+[^05-2]: The following reasons which may be obvious, are given: (1) The typist is not
 so likely to suffer the hesitancy and nervousness which attend a first approach
 to the film. (2) A chance is given to master all examples at one time, while
 the usual run of the film will not always expose all examples. (3) Confidence
@@ -154,9 +154,9 @@ read dates incorrectly and most importantly, any tendency toward inadvertent
 omission of detail. Except for the first week or ten days of a new worker's
 typing, proof-reading with the film is largely unnecessary, and if continued,
 would result an inordinate consumption of the supervisor's time, as well
-as that of the worker.\*
+as that of the worker.[^05-3]
 
-\* The typist remains idle unless there is a double set of projectors
+[^05-3]: The typist remains idle unless there is a double set of projectors
 allowing the typist to work on another film during the course of this
 film revision. From the standpoint of the supervisor it requires about
 two hours to revise the daily production of one typist, with the result
