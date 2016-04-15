@@ -8,7 +8,11 @@ layout: default
   </header>
 
   <article class="post-content">
-    {{ content | replace_regex: '<h2.*</h2>', '', true | replace_regex: '<colgroup.+?</colgroup>', '', false }}
+    {{ content 
+    	| replace_regex: '<h2.*</h2>', '', true 
+    	| replace_regex: '<colgroup.+?</colgroup>', '', false 
+    	| replace_regex: '<p class="(.+?)" data="(.+?)">', '<p class="\1">\2', false
+    }}
   </article>
 
 </div>

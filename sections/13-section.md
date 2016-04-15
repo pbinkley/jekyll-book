@@ -42,7 +42,7 @@ Wash., Govt. print., off., 1927.
 and domestic commerce (Dept. of commerce)  
 Trade information bulletin, no. 486)  
 
-LC
+<p class="right" data="LC">\rightline{LC}</p>
 
 
 </div>
@@ -65,7 +65,7 @@ ltd., 1906-08
 
 \ \ \ 3 v.
 
-LC
+<p class="right" data="LC">\rightline{LC}</p>
 
 </div>
 
@@ -90,7 +90,7 @@ ltd.; N.Y., C. Scribner's sons, [1935]
 
 \ \ \ xv, 242 p., 1 e.
 
-LC
+<p class="right" data="LC">\rightline{LC}</p>
 
 
 </div>
@@ -109,7 +109,7 @@ Alden, (Mrs.) Isabella (Macdonald), 1841-
 
 \ \ \ 610 p.
 
-LC
+<p class="right" data="LC">\rightline{LC}</p>
 
 </div>
 
@@ -136,7 +136,7 @@ London, Putnam's, 1913.
 
 \ \ \ vii, vii-ix,p., 1 l., 470 p.
 
-LC
+<p class="right" data="LC">\rightline{LC}</p>
 
 </div> 
 
@@ -159,7 +159,7 @@ sons; etc., etc., 1906.
 
 \ \ \ vii, 221 p.
 
-LC
+<p class="right" data="LC">\rightline{LC}</p>
 
 </div>
 
@@ -198,7 +198,7 @@ book co., inc., 1934.
 \ \ \ xiii, 577 p. \ \ (Recent social trends  
 monographs)
 
-LC
+<p class="right" data="LC">\rightline{LC}</p>
 
 </div>
 
@@ -234,7 +234,7 @@ the directors of the Missionary society...
 
 (continued on next card)
 
-LC
+<p class="right" data="LC">\rightline{LC}</p>
 
 </div>
 
@@ -250,7 +250,7 @@ London, Print. for T. Chapman by T. Gillet,
 
 \ \ \ 395 p.
 
-LC
+<p class="right" data="LC">\rightline{LC}</p>
 
 </div>
 
@@ -285,7 +285,7 @@ Morgantown, W.Va., The University, 1912-
 v\. \ \ (West Virginia university bul-  
 letin...)
 
-LC
+<p class="right" data="LC">\rightline{LC}</p>
 
 </div>
 
@@ -307,7 +307,7 @@ London, E. Arnold, 1901.
 \ \ \ xviii p., 1 l., 538 p. \ \ (Yale bicen-  
 tennial pub.)
 
-LC
+<p class="right" data="LC">\rightline{LC}</p>
 
 </div>
 
@@ -327,7 +327,7 @@ by the Northwestern University press [1910-
 
 \ \ \ v\.
 
-LC
+<p class="right" data="LC">\rightline{LC}</p>
 
 </div>
 
@@ -351,7 +351,7 @@ collection of Old English plays. 4th
 ed. by W. C. Hazlitt. \ \ London, 1874-76.  
 v\. 6, p. 29-142)
 
-LC
+<p class="right" data="LC">\rightline{LC}</p>
 
 </div>
 
