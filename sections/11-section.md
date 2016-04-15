@@ -21,7 +21,8 @@ University of Nebraska *Library* Film #1 Covers A-Barq
 
                                  *Typist* Smith
 
-Started Completed                Includes cards in non-Roman alphabet
+Started \ \ \ Completed          Includes cards in non-
+                                 Roman alphabet
 -------------------------------------------------------------------------
 
 Remarks: Blurred cards between American art and American Association of artists rephotographed on Film #3
@@ -48,8 +49,10 @@ Sample 3
 
 <div class="box" markdown="1">
 
-Smith, John Supervisor: Hill
+------------------------ -------------------------
+Smith, John                       Supervisor: Hill
 Reported: 2/3/39
+--------------------------------------------------
 
 --------------------------------------------------
 Library           Film No. Covers Start   Complete

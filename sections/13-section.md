@@ -11,7 +11,7 @@ group: sections
 ## Appendix F: INSTRUCTIONS FOR TYPING CARDS
 
 1. The cards are to be copied in regular library form, as indicated
-by the samples. *Do not follow irregular forms found an the library
+by the samples. *Do not follow irregular forms found on the library
 film.*
 
 2. Leave three-quarters of an inch margin along the left-hand edge of
@@ -34,16 +34,16 @@ Sample 1
 
 <div class="box" markdown="1">
 
-Beadle, A E 1884-  
-Cooperage trade of Great Britain...{:.indent}  
+Beadle, A \ \ \ E \ \ \ 1884-  
+\ \ \ Cooperage trade of Great Britain...  
 Wash., Govt. print., off., 1927.  
 
-ii, 29;. (U.S. Bureau of foreign  
+\ \ \ ii, 29;. \ \ (U.S. Bureau of foreign  
 and domestic commerce (Dept. of commerce)  
 Trade information bulletin, no. 486)  
 
 LC
-{:.right}
+
 
 </div>
 
@@ -57,16 +57,15 @@ Sample 2
 
 Hardy, Thomas, 1840-1928
 
-The dynasts, a drama of the Napoleonic  
+\ \ \ The dynasts, a drama of the Napoleonic  
 wars, in three parts, nineteen acts, & one  
-hundred and thirty scenes... New York,  
-Macmillan, 1904; London, Macmillan & 00.,  
+hundred and thirty scenes... \ \ New York,  
+Macmillan, 1904; London, Macmillan & Co.,  
 ltd., 1906-08
 
-3 V.
+\ \ \ 3 v.
 
 LC
-{:.right}
 
 </div>
 
@@ -83,16 +82,16 @@ Sample 3
 
 Woodcock, Hubert Drysdale, 1867-
 
-Lilies; their culture and management,  
+\ \ \ Lilies; their culture and management,  
 including a complete descriptive list of  
 species, by H. Drysdale Woodcock, K.C.  
-and J. Coutts... Lond., Country life  
+and J. Coutts... \ \ Lond., Country life  
 ltd.; N.Y., C. Scribner's sons, [1935]
 
-xv, 242 p., 1 e.
+\ \ \ xv, 242 p., 1 e.
 
 LC
-{:.right}
+
 
 </div>
 
@@ -105,13 +104,12 @@ Sample 4
 <div class="box" markdown="1">
 
 Alden, (Mrs.) Isabella (Macdonald), 1841-
-Sidney Martin's Christmas. By Pansy
-[pseud.] Boston, D. Lothrop & co.[1879]
+\ \ \ Sidney Martin's Christmas. By Pansy
+[pseud.] \ \ Boston, D. Lothrop & co.[1879]
 
-610 p.
+\ \ \ 610 p.
 
 LC
-{:.right}
 
 </div>
 
@@ -129,17 +127,17 @@ Sample 5
 <div class="box" markdown="1">
 
 Brown, (Mrs.) Mary Elizabeth (Adams), 1842-  
-1917, comp.
+\ \ \ \ \ \ 1917, comp.
 
-Dedications; an anthology of the forms  
+\ \ \ Dedications; an anthology of the forms  
 used from the earliest days of bookmaking  
-to the present time... N. Y., and  
+to the present time... \ \ N. Y., and  
 London, Putnam's, 1913.
 
-vii, vii-ix,p., 1 l., 470 p.
+\ \ \ vii, vii-ix,p., 1 l., 470 p.
 
 LC
-{:.right}
+
 </div> 
 
 [pagebreak.F-4]
@@ -147,7 +145,7 @@ LC
 8. Copy edition description as it appears on the film, two spaces after
 the end of the title.
 
-## Edition
+#### Edition
 
 Sample 6
 
@@ -155,14 +153,13 @@ Sample 6
 
 Woodhull, Alfred Alexander, 1837-
 
-Personal hygiene, designed for under-  
-graduates... 1st ed. N.Y., J. Wiley &  
+\ \ \ Personal hygiene, designed for under-  
+graduates... 1st ed. \ \ N.Y., J. Wiley &  
 sons; etc., etc., 1906.
 
-vii, 221 p.
+\ \ \ vii, 221 p.
 
 LC
-{:.right}
 
 </div>
 
@@ -194,15 +191,14 @@ Sample 7
  
 Wooddy, Carroll Hill
 
-The growth of the federal government,  
-1915-1932... N.Y.. London, McGraw-Hill  
+\ \ \ The growth of the federal government,  
+1915-1932... \ \ N.Y.. London, McGraw-Hill  
 book co., inc., 1934.
 
-xiii, 577 p. (Recent social trends  
+\ \ \ xiii, 577 p. \ \ (Recent social trends  
 monographs)
 
 LC
-{:.right}
 
 </div>
 
@@ -216,7 +212,7 @@ manuscript card on the film.
 15. If in doubt about what to omit, copy the cards as you find them.
 Long titles will necessitate the making of a second card.
 
-## Second Card
+#### Second Card
 
 Sample 8
 
@@ -224,7 +220,7 @@ Sample 8
 
 London missionary society
 
-A missionary voyage to the southern Paci-  
+\ \ \ A missionary voyage to the southern Paci-  
 fic Ocean, performed in the years 1796-1797,  
 1798, in the ship Duff, commanded by Captain  
 James Wilson, Comp. from Journals of the  
@@ -236,23 +232,25 @@ of the natural and civil state of Otaheite;
 by a committee appointed for the purpose by  
 the directors of the Missionary society...
 
-LC
-{:.right}
-
 (continued on next card)
+
+LC
+
+</div>
 
 Sample 8 (continued)
 
+<div class="box" markdown="1">
+
 London missionary society. A missionary  
-voyage to the southern Pacific... (Card 2)
+\ \ \ voyage to the southern Pacific... (Card 2)
 
 London, Print. for T. Chapman by T. Gillet,  
 1799.
 
-395 p.
+\ \ \ 395 p.
 
 LC
-{:.right}
 
 </div>
 
@@ -278,17 +276,16 @@ Sample 9
 
 West Virginia country life conference
 
-...Proceedings of the first- West Vir-  
+...Proceedings of the first- \ \ \ West Vir-  
 ginia country life conference and the tenth-  
 Educational conference held at West Virginia  
-university... v.1- 1912-  
+university... v.1- \ \ 1912-  
 Morgantown, W.Va., The University, 1912-
 
-v. (West Virginia university bul-  
+v\. \ \ (West Virginia university bul-  
 letin...)
 
 LC
-{:.right}
 
 </div>
 
@@ -302,16 +299,15 @@ Sample 10
 
 <div class="box" markdown="1">
 
-Two centuries' growth of American law,  
+\ \ \ Two centuries' growth of American law,  
 1701-1901, by members of the Faculty of the  
-Yale law school. N.Y., C. Scribner's sons;  
+Yale law school. \ \ N.Y., C. Scribner's sons;  
 London, E. Arnold, 1901.
 
-xviii p., 1 l., 538 p. (Yale bicen-  
+\ \ \ xviii p., 1 l., 538 p. \ \ (Yale bicen-  
 tennial pub.)
 
 LC
-{:.right}
 
 </div>
 
@@ -323,16 +319,15 @@ Sample 11
 
 <div class="box" markdown="1">
 
-The Journal of criminal law and crim-  
-inology... v.1- May 1910-  
+\ \ \ The Journal of criminal law and crim-  
+inology... v.1- \ \ May 1910-  
 Chicago, Ill., Published for the American  
 institute of criminal law and criminology  
 by the Northwestern University press [1910-  
 
-v.
+\ \ \ v\.
 
 LC
-{:.right}
 
 </div>
 
@@ -349,15 +344,14 @@ Sample 12
 
 Woodes, Nathaniel, fl. 1580?
 
-The conflict of conscience.
+\ \ \ The conflict of conscience.
 
-(In Dodsley, Robert, ed. A select  
+\ \ \ (In Dodsley, Robert, ed. \ \ A select  
 collection of Old English plays. 4th  
-ed. by W. C. Hazlitt. London, 1874-76.  
-v. 6, p. 29-142)
+ed. by W. C. Hazlitt. \ \ London, 1874-76.  
+v\. 6, p. 29-142)
 
 LC
-{:.right}
 
 </div>
 

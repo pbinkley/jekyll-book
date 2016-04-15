@@ -8,8 +8,7 @@ group: sections
 
 [pagebreak.A-1]
 
-## Appendix A INSTRUCTIONS FOR SELECTING CARDS TO BE PHOTOGRAPHED FOR UNION
-CATALOG
+## Appendix A INSTRUCTIONS FOR SELECTING CARDS TO BE PHOTOGRAPHED FOR UNION CATALOG
 
 Only the *main* card for each title should be photographed for inclusion
 in the union catalog. The following general principles should be observed

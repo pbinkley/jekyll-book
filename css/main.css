@@ -36,7 +36,7 @@ p {
   margin-top: 0;
   margin-bottom: 0; 
 }
-article p:first-child {
+article > p:first-child {
 	float: right;
 	padding: 10px;
 	border: 1px solid black;
@@ -54,6 +54,10 @@ article > p:nth-child(2):first-letter {
 	padding-right: 8px; 
 	padding-left: 3px; 
 }
+article > table {
+	margin: 0 auto;
+}
+
 
 td, th {
 	vertical-align: top;
@@ -82,13 +86,14 @@ div.box {
 	max-width: 550px;
 	border: 1px solid black;
 	padding: 20px;
-	margin: 20px 0;
+	margin: 20px auto;
 	font-family: Courier, monospace;
 	font-size: 0.8em;
 }
 
 div.box p {
 	text-indent: 0;
+	margin-bottom: 10px;
 }
 
 div.box em {
@@ -97,4 +102,7 @@ div.box em {
 }
 dt {
 	margin-top: 1em;
+}
+section.footnotes > ol::before {
+	content: "Notes:";
 }

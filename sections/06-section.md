@@ -88,7 +88,7 @@ about six trays per week. Accordingly, ten combiners may be expected to process
 sixty trays a week. There should be one stamper-reviser for not more than
 *four* combiners, since the stamping and revising process must not be hurried.
 
-## Use of Duplicate Cards
+### Use of Duplicate Cards
 
 After the symbols have been placed on the best card, the stamper removes the duplicates and puts them aside face down, continuing this until the
 end of the tray is reached. The process slip that accompanies the tray is

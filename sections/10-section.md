@@ -19,7 +19,7 @@ Characteristics of Library:
 Characteristics of Catalog:
 Filmed on (dates):           
 Supervisor                     Operator
-No. of Films:     LC cards     All O.K.
+No. of Films: \ \ \ \ LC cards All O.K.
 No. of Cards:                 
 Represents Library completely:
                                See correspondence:

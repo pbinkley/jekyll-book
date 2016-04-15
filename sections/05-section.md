@@ -21,7 +21,7 @@ over a long period of time with the special type of ink with which the heavy
 record ribbon is impregnated. This is important if it ever becomes necessary
 to photograph the completed union catalog.
 
-## Training of typists
+### Training of typists
 
 It is important that each typist understand the basic conceptions
 in the preparation of the union catalog and the reasons for the existence of
@@ -107,7 +107,7 @@ of sample cards cannot be over-emphasized in the period of work adjustment.
 
 [pagebreak.18]
 
-## Typing cards from film
+### Typing cards from film
 
 The laboratory, to which the film has been sent by the photographic
 unit, will develop the film in 100-foot lengths, unless otherwise instructed,
@@ -140,7 +140,7 @@ date of completion is entered on the typist's *Work record card*.
 
 [pagebreak.19]
 
-## Proof-reading of typed cards
+### Proof-reading of typed cards
 
 At the conclusion of a day's work, each typist presents his group
 of cards to the supervisor with the *Typist's daily process slip* attached
@@ -190,11 +190,11 @@ I. Typographical errors.
 <div class="box" markdown="1">
 
 Brown, John, 1852-1900  
-The management of institutions,  
-ed. by Thomas Jones, and rev. by  
-Henry Hill......NY.,  
-Brown - 1938  
-440 p. 
+\ \ \ The management of institutions,  
+\ \ \ ed. by Thomas Jones, and rev. by  
+\ \ \ Henry Hill......NY.,  
+\ \ \ Brown - 1938  
+\ \ \ \ \ \ 440 p. 
 
 </div>
 
@@ -247,7 +247,7 @@ The cards are now ready for the stamping process.
 
 (For production records and their evaluation see Appendix I).
 
-## Stamping Process
+### Stamping Process
 
 After typed cards have been finally revised by the supervisor, they
 are routed to one worker in the typing headquarters who stamps the cards
@@ -313,7 +313,7 @@ all cards is completed, the supervisor will be familiar with the abilities
 of the stamper and will be able to select the most intelligent and capable
 person in the group for this special work.
 
-## Cards in Non-Roman Alphabet
+### Cards in Non-Roman Alphabet
 
 An uniform procedure for handling cards in non-Roman alphabets must
 be established at the beginning of the project and strict adherence to it
@@ -356,7 +356,7 @@ non-Roman cards, each alphabet completed is crossed from the alphabet list
 placed in the box by the supervisor. When the non-Roman alphabets are completed, the box is stamped "Finished" opposite the stamp "Includes cards in
 non-Roman alphabet."
 
-## Filing Procedure
+### Filing Procedure
 
 The size of the filing section depends upon the number of typists employed to produce cards. In general, it will be found that five filers can
 keep pace with a typing staff of twenty.
@@ -415,7 +415,7 @@ in the filing, will cover most of the entries encountered. Where a point is
 not covered by those rules, the card should be referred to the supervisor for
 decision.
 
-## Organization for Filing
+### Organization for Filing
 
 In compiling a small union catalog for which the typing unit consists
 of not more than forty typists, it is best to have all the typists work on the
@@ -465,7 +465,7 @@ dation of trays, which at no time should be filled to more than two-thirds of
 their capacity. The supervisor should explain that the labels must not omit any
 possible combination of letters, e.g., A-Ap, followed by Aq-Ars, Art-Aus, Aut-Az.
 
-## Special Filing Problems
+### Special Filing Problems
 
 It is difficult to arrange the cards for classical authors alphabetically,
 i.e., Aesopus, Aristoteles, etc., whose works are published in a number of

@@ -62,7 +62,7 @@ tray. Each worker checks another's work at its conclusion. This learning
 process takes about a week. It is tedious, but sound and effective; and
 the three members of the crew establish a sense of cooperation among themselves from the outset.
 
-## The photographing process
+### The photographing process
 
 The photographing crew should be allotted a space near the main
 catalog, with room for the machine, and a small table at which the
@@ -136,7 +136,7 @@ with the greatest efficiency possible.
 
 [pagebreak.12]
 
-## Records maintained by photographic unit
+### Records maintained by photographic unit
 
 For uniformity, accuracy, and promptness the responsibility for
 keeping records is given to one of the two selectors of the photographic crew.
