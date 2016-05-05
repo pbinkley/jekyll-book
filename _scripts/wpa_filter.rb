@@ -4,6 +4,7 @@ require 'pandoc-filter'
 
 class WPAFilter
   @inrightpara = false
+  @incard = false
   @valuestring = ""
 
   def wpafilter(type, value, format, meta)

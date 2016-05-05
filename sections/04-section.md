@@ -55,7 +55,7 @@ supervisor and the other two members of the crew watching each decision.
 
 The cards which are to be photographed are turned end up on the
 right hand side of the tray. Any errors or questions are clarified and
-explained on the spot. The supervisor watches the two other crew members
+explained on the spot. The supervisor watches the two other crew ink
 follow the same procedure. After each crew member has completed a tray,
 the process is continued, with each member working independently with a
 tray. Each worker checks another's work at its conclusion. This learning
@@ -221,5 +221,5 @@ in order to discover illegible or blurred cards. If the photographers are
 still located in the library, represented by the film found illegible, a
 record of the cards blurred is made and referred to the photographing unit
 for re-takes. Finally the worker, checking the film, labels the film
-container and a card is made for the film file. (Appendix D, samples 1 & 2)
+container and a card is made for the film file. (Appendix D, samples 1 \& 2)
 

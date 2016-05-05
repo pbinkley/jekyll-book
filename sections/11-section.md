@@ -17,7 +17,7 @@ Sample 1 (3x5")
 <div class="box" markdown="1">
 
 -------------------------------- ----------------------------------------
-University of Nebraska *Library* Film #1 Covers A-Barq
+University of Nebraska *Library* Film \#1 Covers A-Barq
 
                                  *Typist* Smith
 
@@ -25,7 +25,7 @@ Started \ \ \ Completed          Includes cards in non-
                                  Roman alphabet
 -------------------------------------------------------------------------
 
-Remarks: Blurred cards between American art and American Association of artists rephotographed on Film #3
+Remarks: Blurred cards between American art and American Association of artists rephotographed on Film \#3
 
 </div>
 
@@ -38,7 +38,7 @@ blurred photographs. The information on the center line of Sample 1 is inserted 
 Sample 2
 
 University of Nebraska Library  
-Film #1  
+Film \#1  
 A-Barq  
 
 [pagebreak.D-2]
@@ -57,7 +57,7 @@ Reported: 2/3/39
 --------------------------------------------------
 Library           Film No. Covers Start   Complete
 ----------------- -------- ------ ------- --------
-Univ. of Nebraska #1       A-Barq 2/12/39 3/28/39
+Univ. of Nebraska \#1       A-Barq 2/12/39 3/28/39
 --------------------------------------------------
 
 </div>
@@ -69,7 +69,7 @@ Sample 4
 <div class="box" markdown="1">
 
 University of Nebraska Library  
-Film #1  
+Film \#1  
 A-Barq
 
 John Smith  

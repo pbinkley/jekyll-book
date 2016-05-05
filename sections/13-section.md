@@ -53,21 +53,21 @@ Trade information bulletin, no. 486)
 
 Sample 2
 
-\fboxsep=10pt \fbox{\begin{minipage}{30em}
+<div class="box" markdown="1">
 
-\texttt{Hardy, Thomas, 1840-1928}
+Hardy, Thomas, 1840-1928
 
-\texttt{\ \ \ The dynasts, a drama of the Napoleonic\\  
-wars, in three parts, nineteen acts, \& one\\  
-hundred and thirty scenes... \ \ New York,\\  
-Macmillan, 1904; London, Macmillan \& Co.,\\  
-ltd., 1906-08}
+\ \ \ The dynasts, a drama of the Napoleonic  
+wars, in three parts, nineteen acts, \& one  
+hundred and thirty scenes... \ \ New York,  
+Macmillan, 1904; London, Macmillan \& Co.,  
+ltd., 1906-08
 
-\texttt{\ \ \ 3 v.}
+\ \ \ 3 v.
 
-\rightline{\texttt{LC}}
+<p class="right">LC</p>
 
-\end{minipage}}
+</div>
 
 5. Omit the author's name in the body of the title inserting three
 periods to indicate omission, unless the book is jointly written
@@ -92,7 +92,6 @@ ltd.; N.Y., C. Scribner's sons, [1935]
 
 <p class="right">LC</p>
 
-
 </div>
 
 [pagebreak.F-3]
@@ -105,7 +104,7 @@ Sample 4
 
 Alden, (Mrs.) Isabella (Macdonald), 1841-
 \ \ \ Sidney Martin's Christmas. By Pansy
-[pseud.] \ \ Boston, D. Lothrop & co.[1879]
+[pseud.] \ \ Boston, D. Lothrop \& co.[1879]
 
 \ \ \ 610 p.
 
@@ -154,7 +153,7 @@ Sample 6
 Woodhull, Alfred Alexander, 1837-
 
 \ \ \ Personal hygiene, designed for under-  
-graduates... 1st ed. \ \ N.Y., J. Wiley &  
+graduates... 1st ed. \ \ N.Y., J. Wiley \&  
 sons; etc., etc., 1906.
 
 \ \ \ vii, 221 p.
@@ -325,7 +324,7 @@ Chicago, Ill., Published for the American
 institute of criminal law and criminology  
 by the Northwestern University press [1910-  
 
-\ \ \ v\.
+\ \ \ v.
 
 <p class="right">LC</p>
 
