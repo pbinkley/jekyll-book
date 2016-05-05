@@ -5,3 +5,4 @@ group :jekyll_plugins do
   gem 'jekyll-lunr-js-search'
   gem 'jekyll-pandoc'
 end
+gem 'pandoc-filter'
