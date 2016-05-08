@@ -1,16 +1,19 @@
 ---
 title:
 - type: main
-  text: Union Cataloging Projects
+  text: Title
 - type: subtitle
-  text: W.P.A. Technical Series, Library No. 1
+  text: Subtitle
+creator: Author
 creator:
 - role: editor
-  text: Peter Binkley
-publisher: W.P.A.
-date: 1940
+  text: Editor
+publisher: Publisher
+date: Year
 identifier:
+- scheme: LCCN
+  text: 111111111
 - scheme: OCLC
-  text: 5972597
+  text: 222222222
 ---
 
