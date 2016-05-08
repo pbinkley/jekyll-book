@@ -12,7 +12,7 @@ mkdir -p _data
 # generate new versions
 # TODO only render if changed
 #pandoc -s -S -f markdown+pipe_tables+footnotes -c test.css sections/*.md  -o downloads/$SLUG.html
-cat sections/*.md | _scripts/wpa_preprocess.rb | pandoc --latex-engine=xelatex -f markdown+pipe_tables+footnotes -o $TARGET/$SLUG.pdf
+cat sections/*.md | _scripts/preprocess.rb | pandoc --latex-engine=xelatex -f markdown+pipe_tables+footnotes -o $TARGET/$SLUG.pdf
 #pandoc --filter=_scripts/wpafilter.rb --latex-engine=xelatex -f markdown+pipe_tables+footnotes sections/*.md  -o $TARGET/$SLUG.pdf
 pandoc -S --epub-cover-image=assets/cover.jpg --epub-metadata=_epub-metadata.yml -f markdown+pipe_tables+footnotes sections/*.md  -o $TARGET/$SLUG.epub
 pandoc sections/*.md -t plain -o $TARGET/$SLUG.txt

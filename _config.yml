@@ -3,7 +3,7 @@ title: Union Cataloging Projects
 brand: Union Cataloging Projects
 description: > # this means to ignore newlines until "baseurl:"
   Author, Title (Place: Publisher, Year)
-baseurl: "/wpaunioncatalog/" # the subpath of your site, e.g. /blog/
+baseurl: "/blog/" # the subpath of your site, e.g. /blog/
 url: "https://www.domain.com"
 
 # Build settings
