@@ -11,7 +11,7 @@ body {
 .sectionlink.right {
 	text-align: right;
 }
-.citation {
+.citation, .license {
 	margin: 15px 0;
 	line-height: 120%;
 	font-size: 0.85em;	
