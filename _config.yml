@@ -1,9 +1,10 @@
+---
 # Site settings
-title: Union Cataloging Projects
-brand: Union Cataloging Projects
+title: Title of Book
+brand: Title of Book
 description: > # this means to ignore newlines until "baseurl:"
   Author, Title (Place: Publisher, Year)
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+baseurl: "/path/to/work/" # the subpath of your site, e.g. /blog/
 url: "https://www.domain.com"
 
 # Build settings
@@ -30,3 +31,5 @@ gems:
   - octopress-debugger
   - jekyll-lunr-js-search
   - jekyll-pandoc
+---
+
