@@ -1,7 +1,14 @@
 #!/usr/bin/env ruby
-# modify markdown before rendering pdf
-# this is a skeleton script that does nothing; it should
-# be modified for the needs of a given project
+
+@mainyamldone = false
+@inyaml = false
+
 ARGF.each_with_index do |line, idx|
-	print line
+	if /^---$/.match(line)
+		print line if !@mainyamldone
+		@inyaml = !@inyaml
+		@mainyamldone = true if !@inyaml
+	else
+		print line unless (@inyaml && @mainyamldone)
+	end
 end
