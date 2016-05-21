@@ -13,6 +13,9 @@ $endif$
 \usepackage{fixltx2e} % provides \textsubscript
 \usepackage{fancyhdr}
 \usepackage[iso]{datetime}
+\usepackage{graphicx}
+\graphicspath{ {/home/pbinkley/Projects/rcb/wpa-union-catalog/jekyll-book/assets/} }
+
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
@@ -29,7 +32,7 @@ $endif$
   \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
   \newcommand{\euro}{€}
 $if(mainfont)$
-    \setmainfont{$mainfont$}
+    \setmainfont{$mainfont$}cd 
 $endif$
 $if(sansfont)$
     \setsansfont{$sansfont$}
@@ -153,19 +156,48 @@ $endfor$
 \begin{document}
 $if(title)$
 \maketitle
+\thispagestyle{empty}
+$endif$
+$if(description)$
+\begin{center}
+$description$
+\end{center}
 $endif$
 $if(abstract)$
 \begin{abstract}
 $abstract$
 \end{abstract}
 $endif$
+\vfill
 \begin{center}
 Version: \today\ \currenttime
 \end{center}
 \begin{center}
-$url$$baseurl$
+\href{$url$$baseurl$}{$url$$baseurl$}
 \end{center}
-\newpage
+$if(license_icon)$ 
+\vspace{1 cm}
+\begin{center}
+\includegraphics[width=1.5cm]{$license_icon$}
+\end{center}
+$endif$
+$if(license_text)$ 
+\begin{center}
+\textit{$license_text$}
+\end{center}
+$endif$
+$if(jb_credit_latex)$
+\begin{center}
+$jb_credit_latex$
+\end{center}
+$endif$
+
+
+
+
+
+\clearpage
+\setcounter{page}{1}
 $for(include-before)$
 $include-before$
 

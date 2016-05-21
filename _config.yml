@@ -6,6 +6,9 @@ description: > # this means to ignore newlines until "baseurl:"
   Author, Title (Place: Publisher, Year)
 baseurl: "/path/to/work/" # the subpath of your site, e.g. /blog/
 url: "https://www.domain.com"
+license_icon: publicdomain
+license_text: "To the extent possible under law, Mary Author has waived all copyright and related or neighboring rights to \"Title of Book\". This work is published from: Canada."
+jb_credit_latex: "Generated with jekyll-book ¶ \\href{https://github.com/pbinkley/jekyll-book}{https://github.com/pbinkley/jekyll-book}"
 
 # Build settings
 markdown: pandoc
