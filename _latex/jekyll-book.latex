@@ -163,6 +163,11 @@ $if(description)$
 $description$
 \end{center}
 $endif$
+$if(editor)$
+\begin{center}
+Digitized and edited by $editor$
+\end{center}
+$endif$
 $if(abstract)$
 \begin{abstract}
 $abstract$
