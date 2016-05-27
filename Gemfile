@@ -6,3 +6,4 @@ group :jekyll_plugins do
   gem 'jekyll-pandoc'
 end
 gem 'pandoc-filter'
+gem 'slugify'
