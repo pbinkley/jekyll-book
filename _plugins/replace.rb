@@ -1,5 +1,7 @@
 # from http://stackoverflow.com/questions/25802204/jekyll-filter-for-regex-substitution-in-content
 
+# provide replace_regex method for use in layouts (see _layouts/section/html for examples)
+
 module Jekyll
   module RegexFilter
     def replace_regex(input, reg_str, repl_str, firstonly)

@@ -160,7 +160,7 @@ $if(title)$
 $endif$
 $if(description)$
 \begin{center}
-$description$
+$description_latex$
 \end{center}
 $endif$
 $if(editor)$

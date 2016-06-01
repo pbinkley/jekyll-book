@@ -12,6 +12,10 @@ Jekyll::Hooks.register :site, :pre_render do |site|
 		return fileswithhashes
 	end
 
+	# create downloads and _data directory 
+	FileUtils::mkdir_p site.config["dirdownloads"]
+	FileUtils::mkdir_p '_data'
+
 	# load list of content and dependency files from previous run (to detect deletions/additions/changes)
 	if File.file?(site.config["previousrun"])
 		previousrun = YAML.load_file(site.config["previousrun"])
@@ -43,8 +47,20 @@ Jekyll::Hooks.register :site, :pre_render do |site|
 	fileswithhashes = makehashlist(contentfiles)
 
 	# determine whether the content files have changed since last run
-	contentchanged = (Set.new(previouscontent) != Set.new(fileswithhashes))
+	previousset = Set.new(previouscontent)
+	currentset = Set.new(fileswithhashes)
+	contentchanged = (previousset != currentset)
 
+	# output list of changed files in contents and deps
+	previousset = previousset + Set.new(previousdeps)
+	currentset = currentset + Set.new(alldepswithhashes)
+	changedfiles = ((previousset - currentset) | (currentset - previousset)).to_a
+	if changedfiles.size == 0
+		puts "Changed: none"
+	else
+		puts "Changed: " + changedfiles.map{|row| row[0]}.to_set.to_a.to_s
+	end
+	
 	# for each format, determine whether its dep files have changed since last run
 	# delete files whose names don't match the current slug
 	downloadfiles.each do |file|

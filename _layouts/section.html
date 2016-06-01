@@ -6,13 +6,17 @@ layout: default
 
   <header class="post-header">
   </header>
+<!-- 
+    This is where we make changes to the html output of the markdown
+    transformation before it is inserted into the page.
 
+	In this case we want to remove the first h2 header, since the chapter
+	title is displayed in the jumbotron div.
+-->
   <article class="post-content">
-    {{ content 
+    {{ content 	    	
     	| replace_regex: '<h2.*</h2>', '', true 
-    	| replace_regex: '<colgroup.+?</colgroup>', '', false 
-    	| replace_regex: '<p class="(.+?)" data="(.+?)">', '<p class="\1">\2', false
-    }}
+	}}
   </article>
 
 </div>
