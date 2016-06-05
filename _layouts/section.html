@@ -13,7 +13,7 @@ layout: default
 	In this case we want to remove the first h2 header, since the chapter
 	title is displayed in the jumbotron div.
 -->
-  <article class="post-content">
+  <article id="{{ page.id}}" class="post-content">
     {{ content 	    	
     	| replace_regex: '<h2.*</h2>', '', true 
 	}}

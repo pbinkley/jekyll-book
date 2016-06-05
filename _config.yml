@@ -16,7 +16,8 @@ twitter: "@mytwitterhandle"
 license_icon: publicdomain
 license_text: "To the extent possible under law, Jim Editor has waived all copyright and related or neighboring rights to \"Title of Book\". This work is published from: Canada."
 jb_credit_latex: "Generated with jekyll-book ¶ \\href{https://github.com/pbinkley/jekyll-book}{https://github.com/pbinkley/jekyll-book}"
-# Country info for CC license vcard in _includes/license.html
+# Info for CC license vcard in _includes/license.html
+publisher_url: "http://www.wallandbinkley.com/rcb/"
 country_name: Canada
 country_code : CA
 dirdownloads: downloads
