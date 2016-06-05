@@ -8,7 +8,9 @@ group: sections
 
 ## Chapter 1: Lorem Ipsum
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pretium arcu diam, sit amet porta ligula porta at. Duis lobortis tellus in lacus dictum, vitae consequat sapien facilisis. Duis ullamcorper neque nec purus ultrices, at porttitor ex varius. Mauris sed convallis odio. Praesent sagittis enim sed tempor pretium. Morbi eget volutpat neque. Proin accumsan odio purus, ut mattis tortor imperdiet a. Nulla facilisi. Morbi ac enim aliquet mauris pulvinar vestibulum. Aliquam blandit ante eget accumsan dictum. Ut hendrerit ipsum quis dictum rutrum. Integer in metus tincidunt, dictum nibh at, efficitur ex. Duis porttitor purus quis pretium suscipit. Proin placerat volutpat congue. Nulla interdum pretium velit, vitae lobortis arcu vehicula vitae.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pretium arcu diam, sit amet porta ligula porta at. *Duis lobortis tellus in lacus dictum, vitae consequat sapien facilisis. Duis ullamcorper neque nec purus ultrices, at porttitor ex varius.* **Mauris sed convallis odio. Praesent sagittis enim sed tempor pretium.** Morbi eget volutpat neque. Proin accumsan odio purus, ut mattis tortor imperdiet a. Nulla facilisi. Morbi ac enim aliquet mauris pulvinar vestibulum. Aliquam blandit ante eget accumsan dictum. Ut hendrerit ipsum quis dictum rutrum. Integer in metus tincidunt, dictum nibh at, efficitur ex. Duis porttitor purus quis pretium suscipit. Proin placerat volutpat congue. Nulla interdum pretium velit, vitae lobortis arcu vehicula vitae.[^note-02-1]
+
+[^note-02-1]: This is a footnote.
 
 Aliquam quis lectus ornare, egestas dolor a, interdum enim. Nullam sit amet consequat orci. Nullam facilisis risus eget placerat maximus. Curabitur porta viverra eleifend. Vivamus eget semper nulla. Nunc leo mauris, scelerisque vitae sollicitudin ac, iaculis ac nibh. Vestibulum nec orci pulvinar, efficitur justo sit amet, vulputate erat. Aliquam sollicitudin placerat velit, vitae convallis arcu maximus eget. Donec euismod pellentesque felis vel maximus.
 
