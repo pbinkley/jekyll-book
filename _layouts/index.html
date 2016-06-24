@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    {% include navbar.html %}
+    {% if page.header != nil %}
+      {% if page.header %}
+        {% include {{ page.header }} %}
+      {% endif %}
+    {% else %}
+      {% if site.header %}
+        {% include {{ site.header }} %}
+      {% else %}
+        {% include header.html %}
+      {% endif %}
+    {% endif %}
+    <div class="container">
+      <div class="row">
+	      <div class="cover col-md-4">
+	      	{% include cover.html %}
+	      </div>
+		  <div class="col-md-8">
+			<h2>{% include citation.html %}</h2>
+		        {{ content }}
+		  </div>
+	  </div>
+	</div>
+    {% include footer.html %}
+  </body>
+</html>

@@ -88,10 +88,12 @@ dt {
 section.footnotes > ol::before {
 	content: "Notes:";
 }
-
-p.caption {
+div.cover p {
+	text-indent: 0;
 	font-size: 75%;
-	text-indent: 0px;
+}
+div.cover img {
+	width: 100%;
 }
 .scrollable-menu {
     height: auto;
