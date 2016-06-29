@@ -26,6 +26,11 @@ previousrun: _data/previousrun.yml
 
 # Build settings
 markdown: Pandoc
+pandoc:
+  extensions:
+    - normalize
+    - smart
+
 # downloads files are generated during the rendering, so we need to 
 # ignore them or it will cause an infinite loop of re-rendering
 exclude: ['_data/previousrun.yml','downloads','Gemfile*','README.md']
