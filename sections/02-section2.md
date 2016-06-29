@@ -6,8 +6,6 @@ id: s02
 group: sections
 ---
 
-## Chapter 2: Tables
-
 Markdown does tables in several ways, but getting a format that works well for HTML and PDF is not easy. Here are samples of the different formats. The sample tables are copied from the [Pandoc readme](http://pandoc.org/README.html#tables), where more details may be found.
 
 ### Simple table (with alignment)
