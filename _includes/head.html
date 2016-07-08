@@ -28,6 +28,9 @@
   <meta property="og:image" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}assets/cover.jpg" />
   <meta property="og:description" content="{{ site.description }}" />
 
+  <!-- rdf -->
+  {% include citation.dc.html %}
+  
   {% include analytics.html %}
 
 </head>
