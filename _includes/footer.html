@@ -52,8 +52,8 @@
 </footer>
 <!-- hack: jquery is packaged with lunr.js gem, so we don't want to load it 
   separately on search page -->
-  {% if page.title != 'Search' %}
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+{% if page.title != 'Search' %}
+<script src="{{ "/assets/jquery.min.js" | prepend: site.baseurl }}"></script>
 {% endif %}
 <script src="{{ "/js/app.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/bootstrap/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
@@ -63,4 +63,12 @@
     $('#navsearch').flexVerticalCenter();
   });
   </script>
+<script src="{{ "/assets/jquery.easing.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/jquery.fragmentscroll.min.js" | prepend: site.baseurl }}"></script>
+<script type="text/javascript">
 
+    $(window).load(function() {
+      $('body').fragmentScroll({offset: 56, enableFragment: true});
+    });
+
+</script>
