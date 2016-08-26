@@ -137,3 +137,14 @@ Obviously, these hacks go beyond ["the simple, clear, ASCII email inspired spiri
 #### EPUB
 
 The EPUB generator hasn't had much attention yet but should be enhanced in the same way that the PDF one has, to make better use of the metadata and provide a better-looking template.
+
+### Dependencies
+
+The following javascript and CSS libraries are included:
+
+* [jQuery](https://jquery.com/)
+* [jQuery Easing](https://github.com/gdsmith/jquery.easing)
+* [jQuery Fragment Scroll](https://github.com/miWebb/jQuery.fragmentScroll) ([forked](https://github.com/pbinkley/jQuery.fragmentScroll) and modified to handle incoming url fragments)
+* [Bootstrap](http://getbootstrap.com/)
+
+Other dependencies are listed in the Gemfile.
