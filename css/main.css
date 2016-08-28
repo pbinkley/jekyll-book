@@ -73,6 +73,9 @@ blockquote {
 blockquote > p {
 	text-indent: 0;
 }
+blockquote + p {
+	text-indent: 0;
+}
 
 div.footnotes {
 	margin-top: 2em;
