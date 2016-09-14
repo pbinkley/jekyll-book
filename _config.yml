@@ -21,8 +21,21 @@ publisher_url: "http://www.wallandbinkley.com/rcb/"
 country_name: Canada
 country_code : CA
 dirdownloads: downloads
-dircontent: sections
+dircontent: _sections
 previousrun: _data/previousrun.yml
+
+# content
+collections:
+  sections:
+    output: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: sections
+    values:
+      layout: section
+
 
 # Build settings
 markdown: Pandoc
@@ -42,7 +55,7 @@ navigation:
       - title: Home
         href: /path/to/work/
       - title: Chapters
-        dropdown: sections
+        dropdown: _sections
       - title: Downloads
         dropdown: downloads
   right:
@@ -57,14 +70,14 @@ gems:
 downloads:
     pdf:
       deps: ["_config.yml","_latex/jekyll-book.latex","_scripts/preprocess.rb"]
-      command: "cat _config.yml sections/*.md | _scripts/preprocess.rb | pandoc --latex-engine=xelatex --template=_latex/jekyll-book.latex -f markdown+pipe_tables+footnotes -o %{dirDownloads}/%{slug}.pdf"
+      command: "cat _config.yml _sections/*.md | _scripts/preprocess.rb | pandoc --latex-engine=xelatex --template=_latex/jekyll-book.latex -f markdown+pipe_tables+footnotes -o %{dirDownloads}/%{slug}.pdf"
     epub:
       deps: ["_config.yml","_epub-metadata.yml","assets/cover.jpg"]
-      command: "pandoc -S --epub-cover-image=assets/cover.jpg --epub-metadata=_epub-metadata.yml -f markdown+pipe_tables+footnotes sections/*.md  -o %{dirDownloads}/%{slug}.epub"
+      command: "pandoc -S --epub-cover-image=assets/cover.jpg --epub-metadata=_epub-metadata.yml -f markdown+pipe_tables+footnotes _sections/*.md  -o %{dirDownloads}/%{slug}.epub"
     md:
       deps: ["_config.yml"]
-      command: "pandoc sections/*.md -t plain -o %{dirDownloads}/%{slug}.txt"
+      command: "pandoc _sections/*.md -t plain -o %{dirDownloads}/%{slug}.txt"
     txt:
       deps: ["_config.yml"]
-      command: "pandoc sections/*.md -o %{dirDownloads}/%{slug}.md"
+      command: "pandoc _sections/*.md -o %{dirDownloads}/%{slug}.md"
 ---
