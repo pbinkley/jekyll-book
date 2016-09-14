@@ -14,9 +14,12 @@ layout: default
 	title is displayed in the jumbotron div.
 -->
   <article id="{{ page.id}}" class="post-content">
+    {% if page.image %}
+      <img src="web/{{ page.image }}.jpg"/>
+    {% endif %}
     {{ content 	    	
     	| replace_regex: '<h2.*</h2>', '', true 
-	}}
+    }}
   </article>
 
 </div>
