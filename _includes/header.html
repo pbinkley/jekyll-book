@@ -1,16 +1,3 @@
-{% for p in site.sections %}
-  {% if p.group == "sections" %}
-    {% if getnext == true %}
-      {% assign next = p %}
-      {% break %}
-    {% elsif page.id == p.id %}
-      {% assign getnext = true %}
-    {% else %}
-      {% assign previous = p %}
-    {% endif %}
-  {% endif %}
-{% endfor %}
-
 <header>
   <div class="jumbotron">
     <div class="container">

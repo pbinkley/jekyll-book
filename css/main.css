@@ -108,3 +108,13 @@ div.cover img {
     max-height: 450px;
     overflow-x: hidden;
 }
+
+div.image {
+	width: 100%;
+}
+
+div.image img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+}
