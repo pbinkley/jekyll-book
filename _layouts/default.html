@@ -16,9 +16,6 @@
     {% endif %}
     <div class="container">
       <div class="row">
-        {% if page.date %}
-          <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-        {% endif %}
         {{ content }}
       </div>
     </div>
