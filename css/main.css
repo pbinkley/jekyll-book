@@ -132,3 +132,13 @@ h3 { font-size: 1.5em }
 	text-align: center;
 	font-weight: bold;
 }
+
+#transcription {
+	width: 100%;
+	background: #ffdddd;
+	padding: 0.5em 1em;
+	border: 1px solid black;
+	border-right: 0;
+	border-left: 0;
+	margin: 2em 0 1em 0;
+}
