@@ -29,6 +29,23 @@
           </article>
   	  </div>
 	  </div>
+
+    {% if site.pageindex %}
+    <div class="row">
+      <div class="col-med-12">
+        <h3 id="pages">Pages</h3>
+        {% for image in site.sections %}
+        <div class="page">
+          <a href="{{ image.image }}.html">
+            <img src="thumbs/{{ image.image }}.jpg" alt="{{ image.label }}" style="width: 100%; max-width: 225px" >
+          </a>
+          <div class="caption">{{ image.title }}</div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
     {% include footer.html %}
   </body>
 </html>
