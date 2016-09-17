@@ -23,7 +23,11 @@ layout: default
         <img src="web/{{ page.image }}.jpg"/>
       {% if next %}</a>{% endif %}
     </div>
+    <h2>Transcription</h2>
     {% endif %}
+    {% if site.keeph2 || page.keeph2 %}
+      {{ content }}
+    {% else %}
 <!-- 
     This is where we make changes to the html output of the markdown
     transformation before it is inserted into the page.
@@ -31,9 +35,10 @@ layout: default
   In this case we want to remove the first h2 header, since the chapter
   title is displayed in the jumbotron div.
 -->
-    {{ content 	    	
-    	| replace_regex: '<h2.*</h2>', '', true 
-    }}
+      {{ content        
+        | replace_regex: '<h2.*</h2>', '', true 
+      }}
+    {% endif %}
   </article>
 
 </div>

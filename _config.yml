@@ -23,6 +23,7 @@ country_code : CA
 dirdownloads: downloads
 dircontent: _sections
 previousrun: _data/previousrun.yml
+keeph2: true
 
 # content
 collections:
